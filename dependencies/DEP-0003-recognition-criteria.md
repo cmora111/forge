@@ -8,8 +8,8 @@
 
 # Summary
 
-Forge investigations consistently concluded with recognition that a
-Discovery had become faithful to engineering reality.
+Forge investigations consistently concluded with recognition that a 
+Discovery faithfully corresponded to engineering reality.
 
 This raised an unresolved dependency:
 

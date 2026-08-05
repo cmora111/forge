@@ -1,7 +1,13 @@
-Dependencies are unresolved engineering questions that have emerged through Forge investigation but have not yet earned recognition as Discoveries.
+## Lifecycle
 
-A Dependency represents an identified gap in engineering understanding.
+A Dependency remains open until its central engineering tension has
+been resolved through Forge investigation and accepted by the Anvil as
+a Discovery.
 
-Dependencies exist to preserve important unanswered questions until faithful investigation either resolves them or reveals deeper dependencies.
+A Dependency does not answer its own question.
 
-A Dependency is not a Discovery.
+Its responsibility is to preserve the unresolved dependency until it
+earns promotion to a Discovery.`
+
+---
+

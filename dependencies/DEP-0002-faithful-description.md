@@ -22,9 +22,9 @@ This dependency remains under investigation.
 
 # Engineering Tension
 
-Repeated Forge investigations revealed that engineering reality,
-engineering invariants, engineering discoveries, and engineering
-principles are distinct engineering artifacts.
+Repeated Forge investigations demonstrated that engineering descriptions 
+evolved through investigation while the engineering reality they described 
+remained unchanged.
 
 This produced a recurring engineering tension:
 

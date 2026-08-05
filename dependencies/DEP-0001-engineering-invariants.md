@@ -10,8 +10,11 @@ FD-0007 Investigation
 
 # Engineering Tension
 
-Repeated Forge investigations produced discoveries that survived
-independent inspection.
+Repeated Forge investigations produced Discoveries that consistently 
+survived independent inspection. This raised an unresolved question: 
+Were those Discoveries preserving engineering principles, or were 
+they preserving something deeper that remained invariant across repeated 
+investigations?
 
 This raised an unresolved question:
 

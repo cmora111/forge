@@ -1,76 +1,90 @@
 # Knowledge Lifecycle
 
-**Status:** Draft
-**Version:** 0.3.0
+**Status:** Draft — Anvil Revision Complete; Forge Final Review Pending
+**Version:** 0.4.0
 
 ---
-
-```
-                    IMPLEMENTATION
-                           │
-                           ▼
-                    OBSERVATION
-                           │
-                           ▼
-                     QUESTION
-                           │
-                           ▼
-                  INVESTIGATION
-                           │
-                           ▼
-                     DISCOVERY
-                           │
-                           ▼
-                CANDIDATE PRINCIPLE
-                           │
-                           ▼
-                 CONSTITUTIONAL LAW
-                           │
-                           ▼
-                   SPECIFICATION
-                           │
-                           └───────────────┐
-                                           │
-                                           ▼
-                                   IMPLEMENTATION
-```
 
 # Purpose
 
-The Forge exists to transform uncertainty into engineering knowledge.
+The Forge exists to transform recognized engineering uncertainty into
+justified engineering knowledge and to preserve the relationship between that
+knowledge and the engineering work governed by it.
 
-Knowledge does not appear fully formed.
+Knowledge does not appear fully formed. It progresses through recognizable
+stages, each with a distinct responsibility, evidentiary condition, and form
+of authority.
 
-It progresses through recognizable stages.
-
-Each stage has different responsibilities, different evidentiary standards,
-and different authority.
-
-This document defines that progression.
+This document defines that progression and distinguishes engineering
+justification from procedural authority.
 
 ---
 
-# Lifecycle
+# Lifecycle Map
 
-Engineering knowledge progresses through the following stages:
-
+```text
+                    IMPLEMENTATION
+                           │
+                           ▼
+                      OBSERVATION
+                           │
+                           ▼
+                        QUESTION
+                           │
+                           ▼
+                     INVESTIGATION
+                           │
+                           ▼
+                       DISCOVERY
+                           │
+                           ▼
+                 REPEATED VALIDATION
+                           │
+                           ▼
+                  CANDIDATE PRINCIPLE
+                           │
+             engineering justification
+                           │
+                           ▼
+                 PROCEDURAL ADOPTION
+                           │
+                           ▼
+                  CONSTITUTIONAL LAW
+                           │
+                           ▼
+                     SPECIFICATION
+                           │
+                           ▼
+                    IMPLEMENTATION
 ```
-Observation
-        ↓
-Question
-        ↓
-Investigation
-        ↓
-Discovery
-        ↓
-Repeated Validation
-        ↓
-Candidate Principle
-        ↓
-Constitutional Law
-```
 
-No stage may be skipped.
+This map depicts the complete Forge feedback loop. It does not mean that every
+Observation must become a Constitutional Law or that every investigation must
+traverse every remaining stage.
+
+No artifact SHALL be promoted to a later stage without satisfying the
+responsibility of every stage required for that promotion.
+
+---
+
+# Authority Model
+
+The lifecycle contains two distinct authorities.
+
+**Engineering Authority** determines whether an engineering claim is
+justified. It is earned through disciplined correspondence with engineering
+reality.
+
+**Procedural Authority** determines what behavior is permitted or required
+within the Forge. It is established through valid adoption under the Forge's
+governing procedure.
+
+Engineering justification does not automatically create procedural authority.
+
+Procedural adoption does not make an engineering claim true.
+
+Constitutional Law requires both an engineering foundation and valid
+procedural adoption.
 
 ---
 
@@ -78,219 +92,316 @@ No stage may be skipped.
 
 Engineering reality exists independently of observation.
 
-Observation records an observer's representation of something witnessed
+An Observation records an observer's representation of something witnessed
 in engineering reality.
 
 Observation is not identical to interpretation, but it cannot be completely
-separated from interpretation.
+separated from interpretation. Recognizing, selecting, and recording what
+occurred requires interpretation.
 
-Recognizing, selecting, and recording what occurred requires interpretation.
+An Observation SHALL minimize explanatory interpretation and SHALL distinguish
+the record of what happened from explanations of why it happened or what it
+means.
 
-Observation SHALL minimize explanatory interpretation, but it cannot eliminate
-the interpretation required to represent what was witnessed.
+Engineering reality does not require an Observation to correspond to it.
+Reality remains what it is whether an Observation is accurate, mistaken, or
+never made.
 
-Observations therefore answer:
+An Observation becomes accountable to engineering reality when it claims to
+represent something witnessed within that reality. That accountability arises
+from the representational claim, not from authority exercised by the source.
 
-> What happened?
+A claimed representational relationship is legitimate for Forge investigation
+when:
 
-They SHALL distinguish that record from explanations of why it happened or
-what it means.
+- the originating source is identified;
+- the Observation is traceable to that source;
+- the method and relevant conditions of observation are preserved;
+- recorded occurrence is distinguishable from explanatory inference;
+- known limitations and contradictions are retained; and
+- another investigation can inspect the claimed relationship.
 
-Engineering reality does not require an observation to correspond to it.
+Legitimacy establishes that the claimed relationship is inspectable. It does
+not establish that the Observation is accurate.
 
-Reality remains what it is whether an observation is accurate, mistaken,
-or never made.
+Faithfulness is the degree to which the Observation preserves the legitimate
+relationship it claims with its source.
 
-An observation becomes accountable to engineering reality when it claims to
-represent something witnessed within that reality.
+No Observation authenticates itself. It enters the lifecycle as a provisional
+representation of engineering reality.
 
-The representation is therefore dependent upon its originating source because
-of the relationship asserted by the representation, not because the source
-exercises authority over it.
-
-Faithfulness is the preservation of that asserted representational relationship.
-
-An observation that does not correspond to its originating source does not
-change engineering reality. It fails to fulfill the responsibility claimed by
-the representation.
-
-An observation is never identical to the engineering reality it represents.
-
-No observation authenticates itself.
-
-An observation enters the Knowledge Lifecycle as a provisional representation
-of engineering reality.
-
-The interpretation contained within an observation earns confidence only
-through continued correspondence with independently observable engineering
-reality.
+The interpretation contained within an Observation earns confidence through
+continued correspondence with subsequent observations and engineering
+consequences that do not depend solely upon the original interpretation.
 
 Confidence may increase through:
 
 - repeated observation;
 - independent corroboration;
 - reproducible consequences;
-- successful prediction;
-- and survival of disciplined attempts to contradict the interpretation.
+- successful prediction; and
+- survival of disciplined attempts to contradict the interpretation.
 
-Contradictory evidence SHALL reduce confidence and return the interpretation
-to investigation.
+Contradictory evidence SHALL reduce confidence and return the affected claim
+to Investigation.
 
-Trust SHALL NOT be granted merely because an observation has been recorded.
-
-Observations create the possibility of investigation.
+Trust SHALL NOT be granted merely because an Observation has been recorded.
 
 ---
 
 # Question
 
-Questions identify uncertainty.
+A Question identifies a specific uncertainty revealed by engineering tension.
 
-A Question exists because observation alone is insufficient to explain
-what has been observed.
+A Question exists because the current engineering model is insufficient to
+faithfully explain what has been observed.
 
-Questions define the scope of investigation.
+A Question SHALL define the responsibility of the Investigation without
+prescribing its conclusion.
 
-Questions possess no authority.
-
-They request evidence.
+Questions possess no engineering or procedural authority.
 
 ---
 
 # Investigation
 
-Investigation gathers evidence.
+Investigation gathers and tests evidence in order to reduce the uncertainty
+defined by a Question.
 
-Investigation does not attempt to prove preconceived conclusions.
+Investigation SHALL NOT attempt to prove a preconceived conclusion.
 
-Its purpose is to reduce uncertainty.
+An Investigation may:
 
-Investigation concludes when:
+- produce an explanatory engineering answer;
+- expose an unresolved dependency requiring another Question;
+- reach an evidentiary limit;
+- suspend while awaiting higher-confidence evidence; or
+- fail to justify a conclusion.
 
-- uncertainty is sufficiently reduced,
-- investigation reaches an evidentiary limit,
-- or a higher-confidence reference artifact becomes necessary.
+Suspension is not conclusion. An Investigation concludes only when its defined
+responsibility has been resolved, bounded by an acknowledged evidentiary
+limit, or closed without a justified answer.
 
 ---
 
 # Discovery
 
-A Discovery records knowledge earned through investigation.
+A Discovery preserves engineering knowledge earned through Investigation.
 
-A Discovery describes what has been demonstrated.
+It records the Question, relevant evidence, explanatory answer, limitations,
+and unresolved dependencies belonging outside its responsibility.
 
-It does not prescribe future behavior.
+A Discovery is descriptive. It records what the Investigation presently
+justifies and does not prescribe future behavior.
 
-Discoveries remain subject to revision.
+A Discovery remains subject to revision or withdrawal when challenged by
+better evidence.
 
-Authority:
-Descriptive.
+**Authority:** Descriptive engineering authority within its demonstrated
+scope.
 
 ---
 
 # Repeated Validation
 
-Repeated Validation determines whether a Discovery survives
-multiple independent investigations.
+Repeated Validation tests whether a Discovery survives materially independent
+investigations, conditions, implementations, or attempts at contradiction.
 
-A Discovery that cannot survive repeated validation
-cannot become a Principle.
+Mere repetition of the same method, evidence, or assumption does not constitute
+independent validation.
 
-Authority:
-Confidence increases through repetition.
+Repeated Validation increases confidence only when the validating work can
+expose failures not already excluded by the originating Investigation.
+
+A Discovery that does not survive Repeated Validation SHALL return to
+Investigation and SHALL NOT become a Candidate Principle.
+
+**Authority:** Increased engineering confidence; no procedural authority.
 
 ---
 
 # Candidate Principle
 
-A Candidate Principle expresses behavior consistently observed
-across multiple validated investigations.
+A Candidate Principle expresses engineering guidance supported by Discoveries
+that have survived Repeated Validation.
 
-Principles propose engineering guidance.
+It SHALL identify its supporting Discoveries, demonstrated scope, known
+limitations, and conditions under which it must return to Investigation.
 
-They remain subject to challenge.
+A Candidate Principle remains provisional and subject to challenge.
 
-Authority:
-Provisional.
+It may guide engineering judgment, but it does not govern the Forge merely by
+existing.
+
+**Authority:** Provisional engineering guidance; no independent procedural
+authority.
+
+---
+
+# Procedural Adoption
+
+Procedural Adoption is the governing act by which a justified Candidate
+Principle is granted normative force within the Forge.
+
+Adoption SHALL verify that:
+
+- the Candidate Principle has an inspectable engineering foundation;
+- its intended governing scope is explicit;
+- the adopting authority is authorized to govern that scope; and
+- the required constitutional procedure has been followed.
+
+Procedural Adoption cannot cure an unfaithful engineering foundation.
+
+Engineering justification cannot substitute for Procedural Adoption.
 
 ---
 
 # Constitutional Law
 
-Constitutional Laws represent principles that have repeatedly
-survived investigation.
+A Constitutional Law is a procedurally adopted engineering principle that
+governs behavior within its declared Forge scope.
 
-They define the governing architecture of the Forge.
+Constitutional Laws are normative. They prescribe permitted, required, or
+prohibited behavior within that scope.
 
-Constitutional Laws are normative.
+Their engineering foundation remains answerable to evidence. Their governing
+force remains answerable to the constitutional procedure under which they were
+adopted.
 
-They prescribe behavior.
-
-Authority:
-Highest.
+**Authority:** Highest procedural authority within the declared scope of the
+Forge; no authority over engineering reality itself.
 
 ---
 
-# Regression
+# Specification
 
-Knowledge may move backward.
+A Specification translates applicable Constitutional Laws and justified
+engineering knowledge into inspectable requirements for implementation.
 
-A Constitutional Law challenged by new evidence
-returns to investigation.
+A Specification SHALL preserve traceability to its governing laws, principles,
+and engineering constraints.
 
-A Discovery contradicted by better evidence
-may be withdrawn.
+A Specification may exercise only the authority delegated to it. It does not
+create independent constitutional or engineering authority.
 
-The Forge values truth over permanence.
+**Authority:** Delegated and prescriptive within its declared implementation
+scope.
 
-No artifact possesses immunity from evidence.
+---
+
+# Implementation
+
+Implementation realizes a Specification in engineering work.
+
+Implementation produces consequences in engineering reality. Those
+consequences become available for Observation and begin another traversal of
+the lifecycle.
+
+Implementation does not prove the faithfulness of the Specification merely by
+existing. Its behavior remains subject to Observation and Investigation.
+
+**Authority:** Operational; no independent engineering or procedural
+authority.
+
+---
+
+# Regression and Challenge
+
+Knowledge and governance may move backward through the lifecycle.
+
+A Discovery contradicted by better evidence SHALL return to Investigation or
+be withdrawn.
+
+A Candidate Principle whose supporting Discoveries fail SHALL return to the
+appropriate earlier stage.
+
+Evidence challenging the engineering foundation of a Constitutional Law SHALL
+reopen that foundation for Investigation.
+
+Reopening engineering justification does not, by itself, amend or repeal
+procedural law. Amendment, suspension, or repeal SHALL follow the applicable
+constitutional procedure.
+
+No artifact possesses immunity from evidence, and no evidentiary finding may
+silently bypass procedural responsibility.
+
+The Forge values faithful engineering knowledge over permanence.
 
 ---
 
 # Higher-Confidence Evidence
 
-Engineering may suspend investigation whenever acquiring
-a higher-confidence reference artifact produces greater
-evidentiary value than additional experimentation.
+Engineering may suspend Investigation when an obtainable reference artifact
+is reasonably expected to provide greater evidentiary value than continued
+experimentation.
 
-Suspension under these conditions represents
-engineering discipline rather than failure.
+Before relying upon such an artifact, the Investigation SHALL inspect its
+provenance, applicability, scope, and known limitations.
+
+An artifact's designation as a reference does not authenticate it or make it
+immune from contradictory engineering evidence.
+
+Suspension under these conditions represents engineering discipline rather
+than failure.
 
 ---
 
 # Responsibilities
 
-| Stage | Responsibility |
-|--------|----------------|
-| Observation | Record reality |
-| Question | Define uncertainty |
-| Investigation | Gather evidence |
-| Discovery | Record demonstrated knowledge |
-| Repeated Validation | Test durability |
-| Candidate Principle | Propose guidance |
-| Constitutional Law | Govern engineering |
+| Stage | Responsibility | Authority |
+|---|---|---|
+| Observation | Preserve an inspectable representation of witnessed reality | Evidentiary input |
+| Question | Define uncertainty and investigative responsibility | None |
+| Investigation | Gather and test evidence | None by itself |
+| Discovery | Preserve presently justified knowledge | Descriptive |
+| Repeated Validation | Test durability and expose hidden failure | Increased confidence |
+| Candidate Principle | Express provisional engineering guidance | Provisional guidance |
+| Procedural Adoption | Grant governing force through authorized procedure | Constituting act |
+| Constitutional Law | Govern behavior within declared Forge scope | Normative |
+| Specification | Translate governing law and knowledge into requirements | Delegated |
+| Implementation | Realize requirements and produce observable consequences | Operational |
 
 ---
 
-# Constitutional Dependency
+# Dependency Model
 
-Constitutional Laws depend upon Principles.
+Constitutional Laws depend upon valid Procedural Adoption and a justified
+engineering foundation.
 
-Principles depend upon Discoveries.
+Candidate Principles depend upon Discoveries that have survived Repeated
+Validation.
 
 Discoveries depend upon Investigations.
 
 Investigations depend upon Questions.
 
-Questions depend upon Observations.
+Questions arise from engineering tension revealed through Observation.
 
-Every Constitutional Law therefore remains
-ultimately dependent upon observation.
+Observations claim inspectable relationships with engineering reality.
+
+Specifications depend upon applicable Constitutional Laws and justified
+engineering knowledge.
+
+Implementations depend upon Specifications and return observable consequences
+to the lifecycle.
+
+No dependency grants the dependent artifact more authority than its source
+provides.
 
 ---
 
 # Bedrock Statement
 
-The Forge exists to transform uncertainty into knowledge.
+The Forge exists to transform recognized uncertainty into justified
+engineering knowledge and to preserve that knowledge through disciplined
+engineering governance.
 
-Knowledge earns authority only through evidence.
+Engineering confidence is earned through evidence that survives disciplined
+attempts at contradiction.
+
+Procedural authority is established through valid adoption within declared
+scope.
+
+Evidence does not create procedural authority.
+
+Procedure does not create engineering truth.

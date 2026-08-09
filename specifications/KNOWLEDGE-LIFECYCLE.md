@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Forge Correction Review Complete; Anvil Final Inspection Pending
-**Version:** 0.6.0
+**Status:** Draft — Forge Implementation Review Complete; Anvil Final Inspection Pending
+**Version:** 0.7.0
 
 ---
 
@@ -23,7 +23,7 @@ justification from procedural authority.
 # Lifecycle Map
 
 ```text
-IMPLEMENTATION
+ENGINEERING REALITY
       │
       ▼
 OBSERVATION
@@ -62,7 +62,10 @@ CONSTITUTIONAL LAW ────────────────────�
                                                   SPECIFICATION
                                                          │
                                                          ▼
-                                                  IMPLEMENTATION
+                                             GOVERNED IMPLEMENTATION
+                                                         │
+                                                         ▼
+                                              ENGINEERING CONSEQUENCES
                                                          │
                                                          ▼
                                                    OBSERVATION
@@ -309,21 +312,28 @@ scope.
 
 ---
 
-# Implementation
+# Governed Implementation
 
-Implementation realizes a Specification in engineering work.
+Engineering work may exist before the lifecycle begins. Preexisting systems,
+exploratory prototypes, experiments, failures, and environmental conditions
+all exist within engineering reality and may produce the consequences from
+which Observations arise.
 
-Exploratory or preexisting implementations may produce the Observations that
-begin an Investigation before a governing Specification exists. Once a
-Specification governs an implementation, conformance to that Specification
-becomes inspectable.
+Such engineering work is not a Governed Implementation merely because it
+exists.
 
-Implementation produces consequences in engineering reality. Those
-consequences become available for Observation and begin another traversal of
-the lifecycle.
+A Governed Implementation realizes a Specification in engineering work.
 
-Implementation does not prove the faithfulness of the Specification merely by
-existing. Its behavior remains subject to Observation and Investigation.
+Once a Specification governs an implementation, conformance to that
+Specification becomes inspectable.
+
+A Governed Implementation produces consequences in engineering reality. Those
+consequences become available for Observation and may begin another traversal
+of the lifecycle.
+
+A Governed Implementation does not prove the faithfulness of the Specification
+merely by existing. Its behavior remains subject to Observation and
+Investigation.
 
 **Authority:** Operational; no independent engineering or procedural
 authority.
@@ -384,7 +394,7 @@ than failure.
 | Procedural Adoption | Grant governing force through authorized procedure | Delegated procedural authority |
 | Constitutional Law | Govern behavior within declared Forge scope | Normative |
 | Specification | Translate governing law and knowledge into requirements | Delegated |
-| Implementation | Realize requirements and produce observable consequences | Operational |
+| Governed Implementation | Realize a Specification and produce observable consequences | Operational |
 
 ---
 
@@ -407,8 +417,12 @@ Observations claim inspectable relationships with engineering reality.
 Specifications depend upon applicable Constitutional Laws and justified
 engineering knowledge.
 
-Implementations depend upon Specifications and return observable consequences
-to the lifecycle.
+Governed Implementations depend upon Specifications and return observable
+consequences to the lifecycle.
+
+Preexisting or exploratory engineering work does not depend upon a
+Specification merely because it can be observed. It belongs to engineering
+reality and may provide the conditions from which the lifecycle begins.
 
 No artifact acquires engineering or procedural authority merely because it
 depends upon another artifact. Every exercise of authority SHALL remain

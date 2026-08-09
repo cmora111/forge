@@ -1,131 +1,137 @@
 # FD-0007 — Principles Enforce Architecture
 
-**Status:** Draft
+**Status:** Accepted
 
-**Version:** 0.1.0
+**Version:** 1.0.0
 
 ---
 
 # Summary
 
-The Forge discovered that architectural principles do not merely
-describe desirable architecture.
+Throughout development of the Forge repository, engineering artifacts
+consistently integrated into a coherent architecture when they were
+developed in accordance with accepted engineering principles.
 
-They constrain the architecture that can remain coherent.
+This raised an engineering question:
 
-Violations of architectural principles naturally produce engineering
-tension, revealing architectural instability.
+**Why do accepted engineering principles consistently produce coherent
+architecture?**
 
-Architectural principles therefore enforce architecture rather than
-simply describing it.
+Forge investigation revealed that accepted engineering principles
+preserve faithful engineering responses to shared engineering
+constraints.
+
+Accepted engineering principles remain mutually coherent because they
+faithfully preserve responses to those shared engineering constraints.
+
+Architecture developed in accordance with those principles therefore
+inherits that coherence.
 
 ---
 
 # Engineering Tension
 
-Throughout development of the Forge–Stage Method, proposed engineering
-solutions repeatedly appeared reasonable while producing architectural
-confusion.
+Repeated Forge investigations demonstrated that engineering artifacts
+developed through separate Forge investigations consistently remained 
+architecturally coherent when developed in accordance with accepted 
+engineering principles.
 
-Examples included:
+Conversely, departures from those principles consistently produced
+architectural tension, overlapping responsibilities, inconsistent
+terminology, and structural drift.
 
-- overlapping artifact responsibilities;
-- duplicated engineering concepts;
-- unclear authority relationships;
-- inconsistent lifecycle behavior;
-- architectural exceptions that required special treatment.
+This raised the engineering question:
 
-Although these appeared to be unrelated engineering problems,
-inspection repeatedly traced each tension to violation of a more
-fundamental architectural principle.
-
-This revealed the unresolved relationship:
-
-**Why does architecture consistently resist violation of its governing
-principles?**
+**Why do accepted engineering principles consistently produce coherent
+architecture?**
 
 ---
 
 # Discovery
 
-The Forge discovered that architectural principles constrain the set of
-architectures capable of remaining coherent.
+Accepted engineering principles preserve faithful engineering responses
+to shared engineering constraints.
 
-When architectural principles are violated, engineering tension
-naturally emerges.
+Accepted engineering principles remain mutually coherent because they
+faithfully preserve responses to the same shared engineering
+constraints.
 
-The resulting tension is not created by the principle itself.
+Architecture developed in accordance with those principles therefore
+inherits that coherence.
 
-It is revealed by the inability of the architecture to remain coherent
-while violating its governing principles.
+Architectural coherence is not created by the principles themselves.
 
-Architectural principles therefore enforce architecture through the
-natural consequences of their violation.
+It emerges because accepted engineering principles faithfully preserve
+responses to the same engineering constraints.
 
 ---
 
 # Rationale
 
-Architectural principles exist to preserve the structural integrity of
-an engineering system.
+Engineering reality constrains every engineering artifact regardless of
+the engineer performing the work.
 
-When architecture remains consistent with its governing principles,
-engineering decisions reinforce one another.
+Accepted engineering principles represent engineering responses that
+have repeatedly survived investigation and inspection.
 
-When those principles are violated, architectural inconsistency,
-duplication, ambiguity, and unnecessary complexity naturally emerge.
+When multiple accepted principles faithfully respond to shared
+engineering constraints, those principles reinforce rather than
+contradict one another.
 
-Engineering tension therefore serves as evidence that architectural
-principles have been violated or remain incompletely understood.
+Architecture developed under those principles therefore reflects the
+coherence inherent within the shared engineering constraints rather
+than coherence imposed by engineering preference.
 
 ---
 
 # Implications
 
-Recognition that Principles Enforce Architecture establishes that:
-
-- architectural principles constrain engineering design;
-- architectural violations naturally produce engineering tension;
-- engineering tension should prompt inspection of governing principles;
-- coherent architecture emerges through faithful adherence to
-  architectural principles rather than discretionary design choices.
-
-Architectural principles therefore serve as the governing constraints
-from which coherent engineering architecture emerges.
+- Architectural coherence cannot be achieved through arbitrary
+  principles.
+- Accepted engineering principles reinforce rather than compete with one
+  another.
+- Architectural inconsistency indicates either an incorrect principle or
+  an unfaithful engineering response.
+- Engineering architecture should be evaluated by the faithfulness of
+  its governing principles rather than stylistic preference.
 
 ---
 
-# Relationship to Other Discoveries
+# Related Artifacts
 
-This discovery builds upon:
+## Discoveries
 
-- FD-0001 — Engineering Tension
-- FD-0002 — Investigation Pattern Recognition
-- FD-0003 — Dependency Tracing
-- FD-0004 — Bedrock Recognition
-- FD-0005 — Dual Authority
-- FD-0006 — Lifecycle Determinism
+- FD-0003
+- FD-0004
+- FD-0005
+- FD-0006
 
-This discovery explains why the preceding discoveries consistently
-guided the Forge toward coherent architecture.
+## Dependencies
+
+- DEP-0001
+- DEP-0002
+- DEP-0003
 
 ---
 
 # Validation
 
-Principles Enforce Architecture emerged throughout development of the
-Forge repository.
+This Discovery emerged through repeated Forge investigations into the
+relationship between engineering principles and repository
+architecture.
 
-Repeated inspection demonstrated that violations of Constitutional Law I
-consistently produced engineering tension, while adherence to governing
-principles consistently reduced architectural complexity and improved
-coherence.
+Repeated Anvil inspection demonstrated that engineering principles do
+not create engineering reality, nor do they independently create
+architecture.
 
-Broader validation across additional engineering disciplines remains
-future work.
+Rather, accepted engineering principles preserve faithful engineering
+responses to shared engineering constraints.
 
-This discovery remains subject to continued validation through future
-engineering efforts.
+Architecture developed under those principles therefore consistently
+inherits their mutual coherence.
+
+No unresolved engineering tensions remain within the responsibility of
+this Discovery.
 
 ---
 
@@ -133,4 +139,5 @@ engineering efforts.
 
 | Version | Status | Description |
 |----------|--------|-------------|
-| 0.1.0 | Draft | Initial formulation of Principles Enforce Architecture. |
+| 0.1.0 | Draft | Initial investigation into principles and architecture. |
+| 1.0.0 | Accepted | Discovery rewritten following Dependency investigations DEP-0001 through DEP-0003. |

@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
 **Status:** Draft
-**Version:** 0.1.0
+**Version:** 0.2.0
 
 ---
 
@@ -35,23 +35,6 @@
                                    IMPLEMENTATION
 ```
 
----
-
-## Responsibility
-
-This specification defines the lifecycle by which engineering knowledge
-earns increasing authority within the Forge.
-
-It governs relationships between knowledge artifacts.
-
-It does not govern the lifecycle of implementations or software
-specifications.
-
-This specification SHALL record only lifecycle relationships that have
-been earned through investigation.
-
----
-
 # Purpose
 
 The Forge exists to transform uncertainty into engineering knowledge.
@@ -63,50 +46,80 @@ It progresses through recognizable stages.
 Each stage has different responsibilities, different evidentiary standards,
 and different authority.
 
-This document records the lifecycle relationships that have been
-demonstrated within the Forge.
-
-It intentionally distinguishes demonstrated knowledge from emerging
-hypotheses.
-
-The lifecycle described herein is expected to mature as the Forge itself
-matures.
+This document defines that progression.
 
 ---
 
-# Currently Demonstrated Lifecycle
+# Lifecycle
 
+Engineering knowledge progresses through the following stages:
+
+```
 Observation
-    ↓
+        ↓
 Question
-    ↓
+        ↓
 Investigation
-    ↓
+        ↓
 Discovery
+        ↓
+Repeated Validation
+        ↓
+Candidate Principle
+        ↓
+Constitutional Law
+```
 
-These relationships have been repeatedly observed within the Forge.
-
----
-
-# Emerging Lifecycle
-
-Current investigations suggest that Discoveries may mature into
-Principles and eventually Constitutional Law.
-
-The requirements governing those transitions have not yet been
-demonstrated and remain under investigation.
+No stage may be skipped.
 
 ---
 
 # Observation
 
-Observation records something that has been witnessed.
+Engineering reality exists independently of observation.
 
-Observations possess no interpretation.
+Observation records an observer's representation of something witnessed
+in engineering reality.
 
-They answer only:
+Observation is not identical to interpretation, but it cannot be completely
+separated from interpretation.
+
+Recognizing, selecting, and recording what occurred requires interpretation.
+
+Observation SHALL minimize explanatory interpretation, but it cannot eliminate
+the interpretation required to represent what was witnessed.
+
+Observations therefore answer:
 
 > What happened?
+
+They SHALL distinguish that record from explanations of why it happened or
+what it means.
+
+Engineering reality constrains whether an observation can be considered
+faithful, but an observation is never identical to the reality it represents.
+
+No observation authenticates itself.
+
+An observation enters the Knowledge Lifecycle as a provisional representation
+of engineering reality.
+
+The interpretation contained within an observation earns confidence only
+through continued correspondence with independently observable engineering
+reality.
+
+Confidence may increase through:
+
+- repeated observation;
+- independent corroboration;
+- reproducible consequences;
+- successful prediction;
+- and survival of disciplined attempts to contradict the interpretation.
+
+Contradictory evidence SHALL reduce confidence and return the interpretation
+to investigation.
+
+Trust SHALL NOT be granted merely because an observation has been recorded.
 
 Observations create the possibility of investigation.
 
@@ -160,14 +173,6 @@ Descriptive.
 
 # Repeated Validation
 
-## Status
-
-The following represents the Forge's current understanding.
-
-These transitions remain subject to investigation and refinement.
-
----
-
 Repeated Validation determines whether a Discovery survives
 multiple independent investigations.
 
@@ -180,14 +185,6 @@ Confidence increases through repetition.
 ---
 
 # Candidate Principle
-
-## Status
-
-The following represents the Forge's current understanding.
-
-These transitions remain subject to investigation and refinement.
-
----
 
 A Candidate Principle expresses behavior consistently observed
 across multiple validated investigations.
@@ -202,14 +199,6 @@ Provisional.
 ---
 
 # Constitutional Law
-
-## Status
-
-The following represents the Forge's current understanding.
-
-These transitions remain subject to investigation and refinement.
-
----
 
 Constitutional Laws represent principles that have repeatedly
 survived investigation.
@@ -252,20 +241,6 @@ engineering discipline rather than failure.
 
 ---
 
-# Placeholder Prohibition
-
-Artifacts earn existence through demonstrated responsibility.
-
-Anticipated structure is not earned structure.
-
-The possibility of a future responsibility SHALL NOT justify creation
-of an empty placeholder artifact.
-
-An artifact earns the right to exist only after its responsibility has
-been independently demonstrated.
-
----
-
 # Responsibilities
 
 | Stage | Responsibility |
@@ -294,18 +269,6 @@ Questions depend upon Observations.
 
 Every Constitutional Law therefore remains
 ultimately dependent upon observation.
-
----
-
-# Open Questions
-
-The following questions remain under active investigation.
-
-- What distinguishes a Discovery from a Principle?
-- What validation is required before a Principle becomes Constitutional Law?
-- Can knowledge regress?
-- Can multiple investigations contribute to a single Discovery?
-- Can a Discovery be withdrawn?
 
 ---
 

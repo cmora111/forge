@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Forge Implementation Review Complete; Anvil Final Inspection Pending
-**Version:** 0.7.0
+**Status:** Draft — Forge Specification-Authority Review Complete; Anvil Final Inspection Pending
+**Version:** 0.8.0
 
 ---
 
@@ -44,31 +44,34 @@ REPEATED VALIDATION
 CANDIDATE PRINCIPLE
 ```
 
-Justified engineering knowledge may enter implementation through a
-Specification without first becoming Constitutional Law.
+Justified engineering knowledge may inform a Specification without first
+becoming Constitutional Law. It cannot, by itself, authorize that
+Specification to govern an implementation.
 
 ```text
-JUSTIFIED ENGINEERING KNOWLEDGE ──────────────────────────┐
-                                                         │
-CANDIDATE PRINCIPLE                                      │
-        │                                                │
-        │ when constitutional governance is required    │
-        ▼                                                │
-PROCEDURAL ADOPTION                                      │
-        │                                                │
-        ▼                                                │
-CONSTITUTIONAL LAW ──────────────────────────────────────┤
-                                                         ▼
-                                                  SPECIFICATION
-                                                         │
-                                                         ▼
-                                             GOVERNED IMPLEMENTATION
-                                                         │
-                                                         ▼
-                                              ENGINEERING CONSEQUENCES
-                                                         │
-                                                         ▼
-                                                   OBSERVATION
+JUSTIFIED ENGINEERING KNOWLEDGE ───────────────────────────┐
+                                                          │
+APPLICABLE PROCEDURAL AUTHORITY ───────────────────────────┤
+                                                          ▼
+                                                   SPECIFICATION
+                                                          │
+                                                          ▼
+                                              GOVERNED IMPLEMENTATION
+                                                          │
+                                                          ▼
+                                               ENGINEERING CONSEQUENCES
+                                                          │
+                                                          ▼
+                                                    OBSERVATION
+
+CANDIDATE PRINCIPLE
+        │
+        │ when constitutional governance is required
+        ▼
+PROCEDURAL ADOPTION
+        │
+        ▼
+CONSTITUTIONAL LAW ─────── one source of applicable procedural authority
 ```
 
 Together, these maps depict the complete Forge feedback loop. They do not mean
@@ -99,6 +102,17 @@ Procedural adoption does not make an engineering claim true.
 
 Constitutional Law requires both an engineering foundation and valid
 procedural adoption.
+
+A Specification likewise requires two independent inputs:
+
+- justified engineering knowledge supports the content of its requirements;
+- applicable procedural authority permits those requirements to govern the
+  declared implementation scope.
+
+Constitutional Law may provide that procedural authority. When no
+Constitutional Law directly governs the work, authority SHALL be delegated by
+an applicable project, stage, contractual, ownership, or other constituting
+artifact whose scope includes the implementation.
 
 ---
 
@@ -298,17 +312,24 @@ Forge; no authority over engineering reality itself.
 
 # Specification
 
-A Specification translates applicable Constitutional Laws and justified
-engineering knowledge into inspectable requirements for implementation.
+A Specification translates justified engineering knowledge and applicable
+governing constraints into inspectable requirements for implementation.
 
-A Specification SHALL preserve traceability to its governing laws, principles,
-and engineering constraints.
+A Specification SHALL preserve two independent chains of traceability:
+
+- **Engineering traceability** to the Discoveries, Principles, evidence, and
+  engineering constraints supporting its requirements.
+- **Procedural traceability** to the Constitutional Law or other applicable
+  constituting artifact delegating authority over its implementation scope.
+
+The procedural source SHALL be identifiable, authorized to govern the declared
+scope, and capable of inspection.
 
 A Specification may exercise only the authority delegated to it. It does not
 create independent constitutional or engineering authority.
 
-**Authority:** Delegated and prescriptive within its declared implementation
-scope.
+**Authority:** Delegated by the applicable procedural source and prescriptive
+only within its declared implementation scope.
 
 ---
 
@@ -393,7 +414,7 @@ than failure.
 | Candidate Principle | Express provisional engineering guidance | Provisional guidance |
 | Procedural Adoption | Grant governing force through authorized procedure | Delegated procedural authority |
 | Constitutional Law | Govern behavior within declared Forge scope | Normative |
-| Specification | Translate governing law and knowledge into requirements | Delegated |
+| Specification | Translate justified knowledge and governing constraints into requirements | Delegated by applicable procedural authority |
 | Governed Implementation | Realize a Specification and produce observable consequences | Operational |
 
 ---
@@ -414,8 +435,12 @@ Questions arise from engineering tension revealed through Observation.
 
 Observations claim inspectable relationships with engineering reality.
 
-Specifications depend upon applicable Constitutional Laws and justified
-engineering knowledge.
+Specifications depend upon both justified engineering knowledge and applicable
+procedural authority.
+
+Constitutional Law may provide procedural authority to a Specification. When
+it does not, the Specification SHALL identify another applicable constituting
+artifact authorized to delegate authority over the implementation scope.
 
 Governed Implementations depend upon Specifications and return observable
 consequences to the lifecycle.

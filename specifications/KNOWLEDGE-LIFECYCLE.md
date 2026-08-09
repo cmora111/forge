@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Anvil Revision Complete; Forge Final Review Pending
-**Version:** 0.4.0
+**Status:** Draft — Forge Final Review Complete; Anvil Final Inspection Pending
+**Version:** 0.5.0
 
 ---
 
@@ -13,7 +13,7 @@ knowledge and the engineering work governed by it.
 
 Knowledge does not appear fully formed. It progresses through recognizable
 stages, each with a distinct responsibility, evidentiary condition, and form
-of authority.
+of authority or an explicit absence of authority.
 
 This document defines that progression and distinguishes engineering
 justification from procedural authority.
@@ -43,7 +43,7 @@ justification from procedural authority.
                            ▼
                   CANDIDATE PRINCIPLE
                            │
-             engineering justification
+              validated engineering foundation
                            │
                            ▼
                  PROCEDURAL ADOPTION
@@ -153,8 +153,9 @@ Trust SHALL NOT be granted merely because an Observation has been recorded.
 
 A Question identifies a specific uncertainty revealed by engineering tension.
 
-A Question exists because the current engineering model is insufficient to
-faithfully explain what has been observed.
+A Question exists because the current engineering model contains uncertainty
+that prevents the work within its responsibility from being faithfully
+explained, justified, or governed.
 
 A Question SHALL define the responsibility of the Investigation without
 prescribing its conclusion.
@@ -254,6 +255,14 @@ Procedural Adoption cannot cure an unfaithful engineering foundation.
 
 Engineering justification cannot substitute for Procedural Adoption.
 
+Procedural Adoption exercises authority already established by an applicable
+constituting artifact. It does not create the originating procedural authority
+under which it operates.
+
+The origin and legitimacy of the Forge's first constituting authority SHALL be
+recorded by the artifact that establishes that authority and SHALL NOT be
+silently inferred from this lifecycle.
+
 ---
 
 # Constitutional Law
@@ -292,6 +301,11 @@ scope.
 # Implementation
 
 Implementation realizes a Specification in engineering work.
+
+Exploratory or preexisting implementations may produce the Observations that
+begin an Investigation before a governing Specification exists. Once a
+Specification governs an implementation, conformance to that Specification
+becomes inspectable.
 
 Implementation produces consequences in engineering reality. Those
 consequences become available for Observation and begin another traversal of
@@ -385,8 +399,29 @@ engineering knowledge.
 Implementations depend upon Specifications and return observable consequences
 to the lifecycle.
 
-No dependency grants the dependent artifact more authority than its source
-provides.
+No artifact acquires engineering or procedural authority merely because it
+depends upon another artifact. Every exercise of authority SHALL remain
+traceable to the appropriate engineering or procedural source.
+
+---
+
+# Approval Gate
+
+Completion of an Anvil revision pass does not approve this document.
+
+Completion of a Forge final review does not approve this document.
+
+Following Forge final review, the complete revised artifact SHALL receive one
+final Anvil inspection.
+
+The document may be marked **Approved** only when the Anvil identifies no
+unresolved engineering tension within the responsibility of this document.
+
+Questions outside this document's declared responsibility SHALL be preserved
+for the appropriate investigation and SHALL NOT prevent approval.
+
+When the final Anvil inspection falls silent, the document SHALL advance to
+version **1.0.0**.
 
 ---
 

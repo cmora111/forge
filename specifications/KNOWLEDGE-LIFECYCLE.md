@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
 **Status:** Draft
-**Version:** 0.2.0
+**Version:** 0.3.0
 
 ---
 
@@ -96,8 +96,25 @@ Observations therefore answer:
 They SHALL distinguish that record from explanations of why it happened or
 what it means.
 
-Engineering reality constrains whether an observation can be considered
-faithful, but an observation is never identical to the reality it represents.
+Engineering reality does not require an observation to correspond to it.
+
+Reality remains what it is whether an observation is accurate, mistaken,
+or never made.
+
+An observation becomes accountable to engineering reality when it claims to
+represent something witnessed within that reality.
+
+The representation is therefore dependent upon its originating source because
+of the relationship asserted by the representation, not because the source
+exercises authority over it.
+
+Faithfulness is the preservation of that asserted representational relationship.
+
+An observation that does not correspond to its originating source does not
+change engineering reality. It fails to fulfill the responsibility claimed by
+the representation.
+
+An observation is never identical to the engineering reality it represents.
 
 No observation authenticates itself.
 

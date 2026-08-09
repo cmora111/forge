@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Forge Procedural-Authority Review Complete; Anvil Final Inspection Pending
-**Version:** 0.9.0
+**Status:** Approved
+**Version:** 1.0.0
 
 ---
 

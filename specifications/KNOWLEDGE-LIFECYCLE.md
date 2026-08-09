@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Forge Final Review Complete; Anvil Final Inspection Pending
-**Version:** 0.5.0
+**Status:** Draft — Forge Correction Review Complete; Anvil Final Inspection Pending
+**Version:** 0.6.0
 
 ---
 
@@ -23,43 +23,54 @@ justification from procedural authority.
 # Lifecycle Map
 
 ```text
-                    IMPLEMENTATION
-                           │
-                           ▼
-                      OBSERVATION
-                           │
-                           ▼
-                        QUESTION
-                           │
-                           ▼
-                     INVESTIGATION
-                           │
-                           ▼
-                       DISCOVERY
-                           │
-                           ▼
-                 REPEATED VALIDATION
-                           │
-                           ▼
-                  CANDIDATE PRINCIPLE
-                           │
-              validated engineering foundation
-                           │
-                           ▼
-                 PROCEDURAL ADOPTION
-                           │
-                           ▼
-                  CONSTITUTIONAL LAW
-                           │
-                           ▼
-                     SPECIFICATION
-                           │
-                           ▼
-                    IMPLEMENTATION
+IMPLEMENTATION
+      │
+      ▼
+OBSERVATION
+      │
+      ▼
+QUESTION
+      │
+      ▼
+INVESTIGATION
+      │
+      ▼
+DISCOVERY
+      │
+      ▼
+REPEATED VALIDATION
+      │
+      ▼
+CANDIDATE PRINCIPLE
 ```
 
-This map depicts the complete Forge feedback loop. It does not mean that every
-Observation must become a Constitutional Law or that every investigation must
+Justified engineering knowledge may enter implementation through a
+Specification without first becoming Constitutional Law.
+
+```text
+JUSTIFIED ENGINEERING KNOWLEDGE ──────────────────────────┐
+                                                         │
+CANDIDATE PRINCIPLE                                      │
+        │                                                │
+        │ when constitutional governance is required    │
+        ▼                                                │
+PROCEDURAL ADOPTION                                      │
+        │                                                │
+        ▼                                                │
+CONSTITUTIONAL LAW ──────────────────────────────────────┤
+                                                         ▼
+                                                  SPECIFICATION
+                                                         │
+                                                         ▼
+                                                  IMPLEMENTATION
+                                                         │
+                                                         ▼
+                                                   OBSERVATION
+```
+
+Together, these maps depict the complete Forge feedback loop. They do not mean
+that every Observation must become a Constitutional Law, that every justified
+claim must become a Candidate Principle, or that every investigation must
 traverse every remaining stage.
 
 No artifact SHALL be promoted to a later stage without satisfying the
@@ -370,7 +381,7 @@ than failure.
 | Discovery | Preserve presently justified knowledge | Descriptive |
 | Repeated Validation | Test durability and expose hidden failure | Increased confidence |
 | Candidate Principle | Express provisional engineering guidance | Provisional guidance |
-| Procedural Adoption | Grant governing force through authorized procedure | Constituting act |
+| Procedural Adoption | Grant governing force through authorized procedure | Delegated procedural authority |
 | Constitutional Law | Govern behavior within declared Forge scope | Normative |
 | Specification | Translate governing law and knowledge into requirements | Delegated |
 | Implementation | Realize requirements and produce observable consequences | Operational |
@@ -414,14 +425,20 @@ Completion of a Forge final review does not approve this document.
 Following Forge final review, the complete revised artifact SHALL receive one
 final Anvil inspection.
 
-The document may be marked **Approved** only when the Anvil identifies no
-unresolved engineering tension within the responsibility of this document.
+The Anvil's silence establishes engineering eligibility for approval. It does
+not itself perform the procedural status transition.
+
+The document may be marked **Approved** only when:
+
+- the Anvil identifies no unresolved engineering tension within the
+  responsibility of this document; and
+- the authorized procedural act records the approval and version transition.
 
 Questions outside this document's declared responsibility SHALL be preserved
 for the appropriate investigation and SHALL NOT prevent approval.
 
-When the final Anvil inspection falls silent, the document SHALL advance to
-version **1.0.0**.
+When the final Anvil inspection falls silent, the authorized procedural act
+SHALL mark the document **Approved** and advance it to version **1.0.0**.
 
 ---
 
@@ -434,8 +451,11 @@ engineering governance.
 Engineering confidence is earned through evidence that survives disciplined
 attempts at contradiction.
 
-Procedural authority is established through valid adoption within declared
-scope.
+Originating procedural authority is established by an applicable constituting
+artifact.
+
+Delegated procedural authority is exercised through valid adoption within
+declared scope.
 
 Evidence does not create procedural authority.
 

@@ -1,7 +1,7 @@
 # Knowledge Lifecycle
 
-**Status:** Draft — Forge Specification-Authority Review Complete; Anvil Final Inspection Pending
-**Version:** 0.8.0
+**Status:** Draft — Forge Procedural-Authority Review Complete; Anvil Final Inspection Pending
+**Version:** 0.9.0
 
 ---
 
@@ -93,8 +93,14 @@ justified. It is earned through disciplined correspondence with engineering
 reality.
 
 **Procedural Authority** determines what behavior is permitted or required
-within the Forge. It is established through valid adoption under the Forge's
-governing procedure.
+within the Forge.
+
+Originating Procedural Authority is established by an applicable constituting
+artifact.
+
+Delegated Procedural Authority is transmitted and exercised through authorized
+procedures within declared scope. Procedural Adoption is one such exercise; it
+does not create the originating authority under which it operates.
 
 Engineering justification does not automatically create procedural authority.
 
@@ -111,8 +117,9 @@ A Specification likewise requires two independent inputs:
 
 Constitutional Law may provide that procedural authority. When no
 Constitutional Law directly governs the work, authority SHALL be delegated by
-an applicable project, stage, contractual, ownership, or other constituting
-artifact whose scope includes the implementation.
+an applicable project charter, stage-governance artifact, contract, ownership
+mandate, or other constituting artifact whose scope includes the
+implementation.
 
 ---
 

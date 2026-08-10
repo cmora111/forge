@@ -506,3 +506,15 @@ declared scope.
 Evidence does not create procedural authority.
 
 Procedure does not create engineering truth.
+
+---
+
+
+# History
+
+| Version | Status | Description |
+|----------|--------|-------------|
+| 1.0.0 | Accepted | KNOWLEDGE-LIFECYCLE.md |
+
+
+

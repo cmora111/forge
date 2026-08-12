@@ -2,9 +2,9 @@
 
 Title
 
-Status
+**Status:** Draft | Under Investigation | Accepted | Superseded
+**Version:** 0.1.0
 
-Draft | Under Investigation | Accepted | Superseded
 
 ---
 
@@ -31,6 +31,18 @@ How did the dependency chain evolve?
 # Discovery
 
 State the engineering discovery.
+
+---
+
+# Bedrock
+
+Here's where the dependency chain stopped
+
+---
+
+# Bedrock
+
+State when you've reached bedrock
 
 ---
 
@@ -72,6 +84,16 @@ What future engineering work depends upon it?
 
 Created
 
+YYYY-MM-DD
+
 Revised
 
-Status
+YYYY-MM-DD
+
+
+| Version | Status | Description |
+|---|---|---|
+| 0.1.0 | Draft | <title> |
+
+
+

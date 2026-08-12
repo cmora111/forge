@@ -1,15 +1,17 @@
 # Forge Discovery Index
 
-| ID | Title | Status |
-|----|-------------------------------|----------|
-| FD-0001 | Engineering Tension | Draft |
-| FD-0002 | Forge Triggers | Draft |
-| FD-0003 | Dependency Tracing | Draft |
-| FD-0004 | Bedrock | Draft |
-| FD-0005 | Dual Authority | Draft |
-| FD-0006 | Lifecycle Determinism | Draft |
-| FD-0007 | Principles Enforce Architecture | Draft |
-| FD-0008 | Higher Confidence Reference Artifacts | Draft |
-| FD-0009 | Constitusion Criteria Govern Lifecycle Transitions | Draft |
+
+| ID      | Title | Status | Depends On |
+| ------- | ------------------------------------- | -------- | ---------------------------------- |
+| FD-0001 | Engineering Tension                   | Accepted | None                               |
+| FD-0002 | Forge Triggers                        | Accepted | FD-0001                            |
+| FD-0003 | Dependency Tracing                    | Accepted | FD-0001, FD-0002                   |
+| FD-0004 | Bedrock | Accepted | FD-0003 |
+| FD-0005 | Dual Authority | Accepted | FD-0003, FD-0004 |
+| FD-0006 | Lifecycle Determinism | Accepted | FD-0004 |
+| FD-0007 | Principles Enforce Architecture | Accepted | FD-0005 |
+| FD-0008 | Higher Confidence Reference Artifacts | Accepted | FD-0005, FD-0006 |
+| FD-0009 | Lifecycle Transition Governance       | Accepted | FD-0003, FD-0004, FD-0005, FD-0006 |
+
 
 

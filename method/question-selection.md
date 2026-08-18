@@ -484,6 +484,24 @@ Whether the test controller supplies both power and data, or supplies data
 while using a separate power source, SHALL be recorded as part of the test
 conditions.
 
+The Investigation is suspended pending this test.
+
+---
+
+## Environmental Suspension
+
+The test equipment was restored from winter storage and prepared for the
+isolated right-side test. Before the electrical test was performed, rain began
+at the outdoor display.
+
+The Investigation was suspended because the outdoor conditions were unsafe for
+energizing, connecting, or probing the display equipment.
+
+No new electrical observation was obtained. The current selected Question
+remains unchanged and awaits safe, dry test conditions.
+
+---
+
 ## Derivation
 
 **Engineering tension:** The right-side props operate independently but do not

@@ -137,7 +137,7 @@ This discovery is consistent with the suspension of Stage 3 pending completion o
 | Version | Status | Description |
 |---|---|---|
 | 0.1.0 | Draft | Lifecycle Transition Governance |
-| 1.0.0 | Accepted | Lifecycle Transition Governance |
+| 1.0.0 | Accepted | Passed Anvil Inspection |
 
 
 

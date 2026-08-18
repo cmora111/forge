@@ -13,6 +13,7 @@
 | FD-0008 | Higher Confidence Reference Artifacts | Accepted | FD-0005, FD-0006 |
 | FD-0009 | Lifecycle Transition Governance       | Accepted | FD-0003, FD-0004, FD-0005, FD-0006 |
 | FD-0010 | Stage Origination | Accepted | FD-0003, FD-0006, FD-0009 |
+| FD-0011 | Stage Origination Authority | Draft | FD-0005, FD-0006, FD-0009, FD-0010 |
 
 
 

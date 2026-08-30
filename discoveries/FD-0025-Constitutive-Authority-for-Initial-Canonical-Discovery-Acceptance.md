@@ -679,7 +679,7 @@ that their resolution is required.
 | Field | Value |
 |---|---|
 | Status | Hold |
-| Version | 0.1.0 |
+| Version | 0.1.1 |
 
 This Discovery memorializes the surviving finding that the authority required
 for initial Canonical Discovery Acceptance may derive from independently

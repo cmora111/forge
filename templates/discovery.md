@@ -319,7 +319,9 @@ finding.
 
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the Forge finding concerning <subject>. |
+| 0.1.0 | Hold | Initial memorialization of the Forge finding concerning |
+| | | <subject>. |
+
 
 ---
 

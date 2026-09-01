@@ -88,6 +88,34 @@ its provisional conclusions SHALL NOT be treated as an accepted Forge
 Discovery merely because they were developed before this investigation was
 deferred.
 
+---
+# Re-Entry Record
+
+The Re-Entry Condition for FI-0007 was subsequently satisfied.
+
+Inspection of the Controlled Stage Admission adapter:
+
+    stage/adapters/new-stage.sh
+
+demonstrated that the adapter could not sufficiently establish and preserve the
+authorization relationship connecting the governing Controlled Stage Admission
+procedure to the particular procedural verification.
+
+The unresolved question preserved by FI-0007 therefore became a demonstrated
+engineering dependency and was returned to the Forge.
+
+The resulting Forge investigation produced:
+
+- FD-0031 — Controlled Stage Admission Procedure Authorization Evidence
+
+FD-0031 subsequently survived Anvil inspection and was canonically accepted.
+
+The re-entry of FI-0007 does not itself grant Discovery standing to this Future
+Investigation. The authoritative finding resulting from the renewed
+investigation is preserved in FD-0031.
+
+---
+
 # Related Discoveries
 
 - FD-0026 — Procedural Verification Attribution
@@ -96,6 +124,7 @@ deferred.
 - FD-0029 — Procedural Authority Standing Evidence for Controlled Stage
   Admission
 - FD-0030 — Controlled Stage Admission Procedure Authorization
+- FD-0031 — Controlled Stage Admission Procedure Authorization Evidence
 
 # Related Engineering Artifact
 
@@ -107,6 +136,8 @@ deferred.
 |---|---|---|
 | 0.1.0 | Deferred | Initial deferral of the Controlled Stage Admission |
 | | | procedure-authorization-evidence investigation. |
+| 0.2.0 | Deferred | Recorded satisfaction of the FI-0007 Re-Entry Condition |
+| | | and continuation of the investigation as FD-0031. |
 
 ---
 

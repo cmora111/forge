@@ -44,6 +44,8 @@
 | | | | FD-0026, FD-0027, FD-0028 |
 | FD-0030 | Controlled Stage Admission Procedure Authorization | Accepted | FD-0013, FD-0020, FD-0021, FD-0026, |
 | | | | FD-0027, FD-0028, FD-0029 |
+| FD-0031 | Controlled Stage Admission Procedure Authorization Evidence | Accepted | FD-0013, FD-0020, FD-0021, FD-0026, |
+| | | | FD-0027, FD-0028, FD-0029, FD-0030 |
 
 
 ---

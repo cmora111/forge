@@ -6,6 +6,7 @@
 | FI-0004 | Normative Framework Applicability | Deferred | FD-0025 |
 | FI-0005 | Governance Amendment, Revocation, and Succession | Deferred | FD-0025 |
 | FI-0006 | Ultimate Legitimacy of Applicable Governance | Deferred | FD-0027 |
+| FI-0007 | Controlled Stage Admission Procedure Authorization Evidence | Deferred | FD-0030 |
 
 
 ---

@@ -48,6 +48,7 @@
 | | | | FD-0027, FD-0028, FD-0029, FD-0030 |
 | FD-0032 | Methodological Provenance Preservation | Accepted | |
 | FD-0033 | Authority Evidence Establishment for Controlled Stage Admission | Accepted | FD-0029, FD-0031 |
+| FD-0034 | Interpretive Evidentiary Standing for Controlled Stage Admission | Accepted | FD-0033 |
 
 
 ---

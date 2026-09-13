@@ -49,6 +49,7 @@
 | FD-0032 | Methodological Provenance Preservation | Accepted | |
 | FD-0033 | Authority Evidence Establishment for Controlled Stage Admission | Accepted | FD-0029, FD-0031 |
 | FD-0034 | Interpretive Evidentiary Standing for Controlled Stage Admission | Accepted | FD-0033 |
+| FD-0036 | Bounded Constitutive Legitimacy of Canonical Method Governance | Accepted | FD-0021, FD-0025 |
 
 
 ---

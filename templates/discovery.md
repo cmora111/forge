@@ -1,7 +1,7 @@
 <!--
 Forge Discovery Record Template
 
-Discovery Template Version: 2.0.0
+Discovery Template Version: 2.1.0
 
 This is the current canonical template for new Forge Discovery records.
 
@@ -22,6 +22,7 @@ The standard discovery-record structure is:
     Invariants
     Does Not Establish
     Open Dependencies
+    Dependency Resolution Record (conditional)
     Depends On
     Status
     Version History
@@ -40,11 +41,16 @@ discovery.
 Examples include:
 
     Consequences
+    Dependency Resolution Record
     <Discovery-Specific> Structure
     <Discovery-Specific> Condition
 
 Conditional sections must serve the discovery being recorded. Their existence
 in one discovery does not make them mandatory in later discoveries.
+
+A conditional section may be added in a later version when its triggering
+condition subsequently arises. Adding the section must preserve the historical
+content and chronology of earlier versions.
 
 Forge Investigation is the standard container for the reasoning that produced
 the finding.
@@ -67,6 +73,28 @@ present finding.
 
 Neither relationship should be inferred merely from proximity, numbering, or
 subject similarity.
+
+DEPENDENCY RESOLUTION RECORDS
+
+A Dependency Resolution Record is a conditional section used when an Open
+Dependency preserved by an earlier version has subsequently been resolved or
+materially advanced.
+
+The historical Open Dependencies section must not be silently rewritten or
+removed merely because the dependency state later changes.
+
+A Dependency Resolution Record should identify, where applicable:
+
+    the historical dependency being addressed;
+    the later basis that resolved or materially advanced it;
+    the resulting resolution;
+    the boundaries of what that resolution establishes;
+    any new dependency exposed by the resolution; and
+    the relevant lifecycle or inspection state where material.
+
+A Dependency Resolution Record reports a later change in the state of
+knowledge. It does not retroactively alter the investigation, finding, authority
+state, evidence state, or lifecycle state recorded by an earlier version.
 
 HISTORICAL RECORDS
 
@@ -261,6 +289,34 @@ not been satisfied, preserve that boundary explicitly.
 
 ---
 
+<!--
+CONDITIONAL DEPENDENCY RESOLUTION RECORD
+
+Insert the following section HERE only when an Open Dependency preserved by an
+earlier version has subsequently been resolved or materially advanced:
+
+# Dependency Resolution Record
+
+## <Historical Dependency>
+
+<Identify the historical dependency and the later basis that resolved or
+materially advanced it. State the resulting resolution, the boundaries of what
+it establishes, any new dependency exposed, and the relevant lifecycle or
+inspection state where material.>
+
+---
+
+Do not rewrite or remove the historical Open Dependencies section merely
+because its state later changes.
+
+A Dependency Resolution Record reports later knowledge. It does not
+retroactively alter the historical investigation, finding, authority state,
+evidence state, or lifecycle state.
+
+Delete this comment when instantiating the discovery if no Dependency
+Resolution Record is required.
+-->
+
 # Depends On
 
 <!--
@@ -289,6 +345,7 @@ dependency, identify that distinction explicitly when necessary.
 |---|---|
 | Status | Hold |
 | Version | 0.1.0 |
+
 
 <!--
 State what this FD memorializes.

@@ -1,7 +1,7 @@
 # FD-0015 — Originating Procedural Authority
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -228,19 +228,31 @@ This discovery does not establish:
 
 # Status
 
-Hold.
+
+| Field | Value |
+|---|---|
+| Status | Accepted |
+| Version | 1.0.0 |
+
 
 This discovery records the currently established result of the authority-origin
 investigation.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
-## 0.1.0 — Hold
 
-Initial memorialization of the discovery that legitimate engineering
-responsibility may provide the bounded authority basis from which procedural
-authority over an emerging engineering methodology originates.
+| Version | Status | Description |
+|---|---|---|
+| 0.1.0 | Hold | Initial memorialization of originating procedural authority. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge and Anvil |
+| | | inspection; prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
+
+---

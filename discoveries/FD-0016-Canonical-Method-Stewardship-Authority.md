@@ -1,7 +1,7 @@
 # FD-0016 — Canonical Method Stewardship Authority
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -323,27 +323,32 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into continuity between Originating Procedural Authority and continuing
-authority over the canonical identity and knowledge corpus of an emerging
-Method.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that Canonical Method Stewardship |
-| | | Authority may exist as a continuing expression of legitimate bounded Originating |
-| | | Procedural Authority where origin, identity, scope, and provenance remain |
-| | | continuous as the governed methodology becomes an identifiable Method. |
+| 0.1.0 | Hold | Initial memorialization of Canonical Method Stewardship |
+| | | Authority as a continuing expression of legitimate bounded Originating |
+| | | Procedural Authority where origin, identity, scope, and provenance |
+| | | remain continuous as the governed methodology becomes an identifiable |
+| | | Method. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

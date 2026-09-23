@@ -1,7 +1,7 @@
 # FD-0020 — Procedural Authority Legitimacy
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -704,29 +704,34 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into what makes Procedural Authority for a canonical Discovery transition
-legitimate.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that legitimate derived |
-| | | Procedural Authority requires a valid, currently effective, and applicable |
-| | | authority grant traceable through constituted governance to a constitutive |
-| | | authority source for the canonical domain; that such traceability does not |
-| | | itself justify the constitutive authority source; and that possession of |
-| | | Procedural Authority does not by itself make every exercise of that authority |
+| 0.1.0 | Hold | Initial memorialization of legitimate derived |
+| | | Procedural Authority as requiring a valid, effective, and applicable |
+| | | authority grant traceable through constituted governance to a |
+| | | constitutive authority source for the canonical domain; traceability |
+| | | does not itself justify that source, and possession of Procedural |
+| | | Authority does not make every exercise of that authority |
 | | | valid. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

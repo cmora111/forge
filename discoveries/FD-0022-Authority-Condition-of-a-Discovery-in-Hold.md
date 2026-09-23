@@ -1,7 +1,7 @@
 # FD-0022 — Authority Condition of a Discovery in Hold
 
-**Status:** Hold  
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -507,7 +507,31 @@ demonstrates that their resolution is required.
 
 ---
 
+# Status
+
+
+| Field | Value |
+|---|---|
+| Status | Accepted |
+| Version | 1.0.0 |
+
+
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
+
+---
+
 # Version History
+
+## 1.0.0 — Accepted
+
+Accepted following final Anvil inspection and the authorized direct acceptance
+transition.
+
+## 0.1.1 — Hold
+
+Updated lifecycle state after surviving Forge review; prepared the exact
+artifact for final Anvil inspection.
 
 ## 0.1.0 — Hold
 
@@ -532,4 +556,3 @@ and representation of proposed and Accepted Discoveries within the Discovery
 system.
 
 ---
-

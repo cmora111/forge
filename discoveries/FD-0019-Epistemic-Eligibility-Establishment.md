@@ -1,7 +1,7 @@
 # FD-0019 — Epistemic Eligibility Establishment
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -610,28 +610,32 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into the mechanism by which epistemic eligibility may be legitimately
-established for a Forge Discovery without allowing discretionary or
-Procedural Authority to manufacture epistemic sufficiency.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that epistemic eligibility is |
-| | | legitimately established through an inspectable demonstration that governed |
-| | | epistemic predicates are satisfied by sufficient supporting evidence for the |
-| | | evaluated state of the finding, rather than through discretionary conferral |
+| 0.1.0 | Hold | Initial memorialization of epistemic eligibility as |
+| | | established through an inspectable demonstration that governed |
+| | | epistemic predicates are satisfied by sufficient supporting evidence |
+| | | for the evaluated finding, rather than through discretionary conferral |
 | | | by an actor, office, mechanism, or process. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

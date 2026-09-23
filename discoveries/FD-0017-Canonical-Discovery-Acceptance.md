@@ -1,7 +1,7 @@
 # FD-0017 — Canonical Discovery Acceptance
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -483,26 +483,31 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into the authority and epistemic conditions required for canonical Discovery
-acceptance.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that valid Canonical Discovery |
-| | | Acceptance requires both sufficient epistemic eligibility and an authorized |
-| | | canonical commit, and that neither condition alone is sufficient to alter |
-| | | the canonical Discovery corpus. |
+| 0.1.0 | Hold | Initial memorialization of valid Canonical Discovery |
+| | | Acceptance as requiring sufficient epistemic eligibility and an |
+| | | authorized canonical commit; neither alone is sufficient to alter the |
+| | | canonical Discovery corpus. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

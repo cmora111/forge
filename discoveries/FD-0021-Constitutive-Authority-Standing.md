@@ -1,7 +1,7 @@
 # FD-0021 — Constitutive Authority Standing
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -711,29 +711,34 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into what gives a constitutive authority source standing to constitute
-governance for a canonical domain.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that constitutive authority |
-| | | standing requires a grounding relationship to the canonical domain that is |
-| | | sufficient under a normative framework whose applicability to that domain |
-| | | can be established; that constitutive authority is domain-relative and |
-| | | bounded by its grounding relationship; and that establishing normative- |
-| | | framework applicability does not itself establish the ultimate legitimacy |
+| 0.1.0 | Hold | Initial memorialization of constitutive authority |
+| | | standing as requiring a grounding relationship to the canonical |
+| | | domain sufficient under an applicable normative framework; |
+| | | constitutive authority is domain-relative and bounded by its |
+| | | grounding relationship, and framework applicability does not establish |
+| | | the ultimate legitimacy |
 | | | of that framework. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

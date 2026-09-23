@@ -1,7 +1,7 @@
 # FD-0014 — Stage Admission Verification Integrity
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -463,8 +463,30 @@ These remain matters for subsequent specification or investigation.
 
 ---
 
-## History
+# Status
+
+
+| Field | Value |
+|---|---|
+| Status | Accepted |
+| Version | 1.0.0 |
+
+
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
+
+---
+
+# Version History
+
 
 | Version | Status | Description |
 |---|---|---|
 | 0.1.0 | Hold | Stage Admission Verification Integrity |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
+
+---

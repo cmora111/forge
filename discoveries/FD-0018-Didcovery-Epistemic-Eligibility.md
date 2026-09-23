@@ -1,7 +1,7 @@
 # FD-0018 — Discovery Epistemic Eligibility
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -507,28 +507,34 @@ This discovery does not establish:
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This discovery records the currently established result of the investigation
-into the conditions required for sufficient epistemic eligibility of a Forge
-Discovery before canonical acceptance may legitimately be considered.
 
-It remains subject to further Forge and Anvil inspection before acceptance.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+
 | Version | Status | Description |
 |---|---|---|
-| 0.1.0 | Hold | Initial memorialization of the discovery that epistemic eligibility for a |
+| 0.1.0 | Hold | Initial memorialization of epistemic eligibility for a |
 | | | Forge Discovery requires applicable epistemic examination, sufficient |
 | | | material dependency support, absence of a known unresolved material |
-| | | defeating defect, sufficient inspectable epistemic evidence, and identity |
+| | | defeating defect, sufficient inspectable epistemic evidence, and |
+| | | identity |
 | | | between the evaluated finding and the finding presented for canonical |
 | | | acceptance. |
+| 0.1.1 | Hold | Updated lifecycle state after surviving Forge review; |
+| | | prepared the exact artifact for final Anvil inspection. |
+| 1.0.0 | Accepted | Accepted following final Anvil inspection and the |
+| | | authorized direct acceptance transition. |
+
 
 ---

@@ -1,7 +1,7 @@
 # FD-0025 — Constitutive Authority for Initial Canonical Discovery Acceptance
 
-**Status:** Hold
-**Version:** 0.1.1
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -676,30 +676,37 @@ that their resolution is required.
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.1 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This Discovery memorializes the surviving finding that the authority required
-for initial Canonical Discovery Acceptance may derive from independently
-grounded constitutive standing over the governed engineering domain rather
-than from an already-Accepted Discovery, and that Acceptance authority must not
-depend upon the authoritative standing produced by that same Acceptance.
 
-It remains subject to governed Canonical Discovery Acceptance and does not
-become authoritative merely through memorialization, Forge survival, or Anvil
-survival.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
 
+## 1.0.0 — Accepted
+
+Accepted following final Anvil inspection and the authorized direct acceptance
+transition.
+
+## 0.1.2 — Hold
+
+Updated lifecycle state after surviving Forge review; prepared the exact
+artifact for final Anvil inspection.
+
 ## 0.1.1 — 2026-08-29
 
 - Renumbered from FD-0024 to FD-0025 after restoration of the previously
-  unmemorialized Pre-Specification Canonical Acceptance Validity discovery as FD-0024.
-- Added FD-0024 — Pre-Specification Canonical Acceptance Validity to the dependency chain.
+  unmemorialized Pre-Specification Canonical Acceptance Validity discovery as
+  FD-0024.
+- Added FD-0024 — Pre-Specification Canonical Acceptance Validity to the
+  dependency chain.
 - No substantive change to the Discovery finding.
 
 ## 0.1.0 — Hold
@@ -730,4 +737,3 @@ applicability, actual constitutive grounding and evidence, and subsequent
 governance amendment or succession.
 
 ---
-

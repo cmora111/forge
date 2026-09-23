@@ -1,37 +1,56 @@
 # FD-0024 — Pre-Specification Canonical Acceptance Validity
 
-**Status:** Hold  
-**Version:** 0.1.1
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
 ## Forge Question
 
-Does the validity of Canonical Discovery Acceptance depend upon the prior existence of an authoritative specification describing how Canonical Discovery Acceptance must be performed?
+Does the validity of Canonical Discovery Acceptance depend upon the prior
+existence of an authoritative specification describing how Canonical Discovery
+Acceptance must be performed?
 
 ---
 
 ## Context
 
-The Forge established that a Discovery finding does not acquire authoritative dependency standing merely because the Discovery exists, is in Hold, survives Forge or Anvil examination, or becomes epistemically eligible.
+The Forge established that a Discovery finding does not acquire authoritative
+dependency standing merely because the Discovery exists, is in Hold, survives
+Forge or Anvil examination, or becomes epistemically eligible.
 
-Canonical Discovery Acceptance is the transition through which an eligible governed Discovery acquires the canonical standing necessary for its finding to serve as an authoritative dependency in Stage engineering.
+Canonical Discovery Acceptance is the transition through which an eligible
+governed Discovery acquires the canonical standing necessary for its finding to
+serve as an authoritative dependency in Stage engineering.
 
 This exposes a bootstrap problem.
 
-If valid Canonical Discovery Acceptance requires an already-authoritative Canonical Discovery Acceptance specification, then the first such specification appears unable to obtain authoritative Discovery support without already depending upon the process it is intended to specify.
+If valid Canonical Discovery Acceptance requires an already-authoritative
+Canonical Discovery Acceptance specification, then the first such specification
+appears unable to obtain authoritative Discovery support without already
+depending upon the process it is intended to specify.
 
-The question is therefore whether the validity of an Acceptance originates in the existence of its specification, or whether the specification describes and operationalizes validity conditions that may exist independently of the specification itself.
+The question is therefore whether the validity of an Acceptance originates in
+the existence of its specification, or whether the specification describes and
+operationalizes validity conditions that may exist independently of the
+specification itself.
 
 ---
 
 ## Finding
 
-The validity of Canonical Discovery Acceptance does not originate in the existence of the specification that describes it.
+The validity of Canonical Discovery Acceptance does not originate in the
+existence of the specification that describes it.
 
-A Canonical Discovery Acceptance performed before an authoritative Canonical Discovery Acceptance specification exists may therefore be valid if the substantive conditions necessary for valid Acceptance were independently satisfied at the time of the Acceptance.
+A Canonical Discovery Acceptance performed before an authoritative Canonical
+Discovery Acceptance specification exists may therefore be valid if the
+substantive conditions necessary for valid Acceptance were independently
+satisfied at the time of the Acceptance.
 
-Whether that historical validity can later be sufficiently demonstrated is a distinct question and does not itself determine whether the Acceptance was valid when performed, except where an evidentiary, memorializing, or canonical effect was itself an applicable substantive condition of valid Acceptance.
+Whether that historical validity can later be sufficiently demonstrated is a
+distinct question and does not itself determine whether the Acceptance was valid
+when performed, except where an evidentiary, memorializing, or canonical effect
+was itself an applicable substantive condition of valid Acceptance.
 
 Such conditions include, where applicable:
 
@@ -40,11 +59,14 @@ Such conditions include, where applicable:
 - valid exercise of that authority;
 - identity of the Discovery and evaluated state being accepted;
 - satisfaction of the substantive requirements governing the Acceptance;
-- and any evidentiary, memorializing, or canonical effect that was itself an applicable substantive condition of valid Acceptance.
+- and any evidentiary, memorializing, or canonical effect that was itself an
+  applicable substantive condition of valid Acceptance.
 
-A later specification may describe, formalize, operationalize, and make inspectable those validity conditions.
+A later specification may describe, formalize, operationalize, and make
+inspectable those validity conditions.
 
-It cannot create the prior validity of an earlier Acceptance merely by declaring that earlier act compliant.
+It cannot create the prior validity of an earlier Acceptance merely by declaring
+that earlier act compliant.
 
 Therefore:
 
@@ -60,9 +82,12 @@ and:
 
 A specification may state requirements for a valid operation.
 
-The existence of the specification is not necessarily the source from which those requirements obtain their validity.
+The existence of the specification is not necessarily the source from which
+those requirements obtain their validity.
 
-For Canonical Discovery Acceptance, the specification is an operational expression of conditions whose validity must be grounded independently of the specification itself.
+For Canonical Discovery Acceptance, the specification is an operational
+expression of conditions whose validity must be grounded independently of the
+specification itself.
 
 Therefore:
 
@@ -82,15 +107,18 @@ Acceptance Specification
 Validity Conditions
 ```
 
-The specification may make the validity conditions explicit without originating them.
+The specification may make the validity conditions explicit without originating
+them.
 
 ---
 
 ## Pre-Specification Acceptance
 
-The absence of an authoritative Acceptance specification does not by itself invalidate an Acceptance.
+The absence of an authoritative Acceptance specification does not by itself
+invalidate an Acceptance.
 
-A pre-specification Acceptance may be valid where the substantive conditions necessary for that Acceptance were actually satisfied.
+A pre-specification Acceptance may be valid where the substantive conditions
+necessary for that Acceptance were actually satisfied.
 
 Therefore:
 
@@ -108,7 +136,8 @@ No Acceptance Specification
 Acceptance Automatically Valid
 ```
 
-The absence of a specification removes neither the substantive requirements nor the burden of demonstrating that they were satisfied.
+The absence of a specification removes neither the substantive requirements nor
+the burden of demonstrating that they were satisfied.
 
 ---
 
@@ -116,7 +145,8 @@ The absence of a specification removes neither the substantive requirements nor 
 
 Pre-specification validity does not create a bootstrap exemption.
 
-The first Acceptance is not permitted to ignore requirements merely because the formal specification does not yet exist.
+The first Acceptance is not permitted to ignore requirements merely because the
+formal specification does not yet exist.
 
 Therefore:
 
@@ -130,7 +160,8 @@ A pre-specification Acceptance cannot become valid through:
 - repository control;
 - retrospective declaration;
 - procedural improvisation alone;
-- or the claim that no specification existed against which the act could be judged.
+- or the claim that no specification existed against which the act could be
+  judged.
 
 The substantive conditions governing valid Acceptance remain applicable.
 
@@ -138,7 +169,8 @@ The substantive conditions governing valid Acceptance remain applicable.
 
 ## Later Codification
 
-A later Canonical Discovery Acceptance specification may formalize conditions that were already necessary for valid Acceptance.
+A later Canonical Discovery Acceptance specification may formalize conditions
+that were already necessary for valid Acceptance.
 
 It may also provide:
 
@@ -150,9 +182,11 @@ It may also provide:
 - failure semantics;
 - and operational controls.
 
-This later codification may make an earlier valid Acceptance easier to inspect and explain.
+This later codification may make an earlier valid Acceptance easier to inspect
+and explain.
 
-It does not make an earlier invalid Acceptance valid merely by describing it as acceptable.
+It does not make an earlier invalid Acceptance valid merely by describing it as
+acceptable.
 
 Therefore:
 
@@ -179,7 +213,8 @@ Retroactively Valid Act
 
 ## Retrospective Recognition
 
-A later governance process may determine that a prior Acceptance satisfied the substantive conditions applicable to it.
+A later governance process may determine that a prior Acceptance satisfied the
+substantive conditions applicable to it.
 
 Such a determination recognizes prior validity.
 
@@ -189,37 +224,50 @@ The distinction is:
 
 > **Recognition of Prior Validity ≠ Creation of Prior Validity**
 
-Present inability to demonstrate the validity of a claimed historical Acceptance does not by itself establish that the Acceptance was historically invalid.
+Present inability to demonstrate the validity of a claimed historical Acceptance
+does not by itself establish that the Acceptance was historically invalid.
 
 Therefore:
 
 > **Failure to Demonstrate Validity ≠ Demonstration of Invalidity**
 
-Where prior validity cannot presently be sufficiently established, the claimed historical Acceptance need not be granted present canonical recognition or reliance.
+Where prior validity cannot presently be sufficiently established, the claimed
+historical Acceptance need not be granted present canonical recognition or
+reliance.
 
-Recognition of prior validity must also not be used to complete an Acceptance that was historically incomplete. If a substantive condition of the earlier Acceptance was not satisfied, later action cannot be characterized as mere recognition of a completed valid act.
+Recognition of prior validity must also not be used to complete an Acceptance
+that was historically incomplete. If a substantive condition of the earlier
+Acceptance was not satisfied, later action cannot be characterized as mere
+recognition of a completed valid act.
 
 Therefore:
 
 > **Recognition ≠ Completion of an Incomplete Historical Acceptance**
 
-If the earlier Acceptance did not satisfy the necessary conditions at the time it occurred, later recognition cannot alter that historical fact.
+If the earlier Acceptance did not satisfy the necessary conditions at the time
+it occurred, later recognition cannot alter that historical fact.
 
-A later valid Acceptance may establish Accepted standing prospectively where permitted by the applicable governance, but that is a new valid act rather than retroactive validation of the earlier invalid act.
+A later valid Acceptance may establish Accepted standing prospectively where
+permitted by the applicable governance, but that is a new valid act rather than
+retroactive validation of the earlier invalid act.
 
 ---
 
 ## Specification Authority
 
-This finding does not establish that an Acceptance specification lacks authority once validly established.
+This finding does not establish that an Acceptance specification lacks authority
+once validly established.
 
-An authoritative specification may govern later Acceptance operations and may impose procedural requirements that become applicable to those operations.
+An authoritative specification may govern later Acceptance operations and may
+impose procedural requirements that become applicable to those operations.
 
 The finding establishes only that:
 
-> **the existence of the specification is not the originating source of Canonical Discovery Acceptance validity.**
+> **the existence of the specification is not the originating source of
+> Canonical Discovery Acceptance validity.**
 
-Once an authoritative specification exists, failure to satisfy an applicable requirement of that specification may cause a later Acceptance to fail.
+Once an authoritative specification exists, failure to satisfy an applicable
+requirement of that specification may cause a later Acceptance to fail.
 
 Therefore:
 
@@ -241,13 +289,19 @@ May Be Ignored
 
 Pre-specification Acceptance creates a particular evidentiary problem.
 
-Without a formal procedure already prescribing the evidence to preserve, the historical record may be less standardized.
+Without a formal procedure already prescribing the evidence to preserve, the
+historical record may be less standardized.
 
-That does not eliminate the burden of establishing the validity of a claimed historical Acceptance before that claimed validity is presently recognized or relied upon.
+That does not eliminate the burden of establishing the validity of a claimed
+historical Acceptance before that claimed validity is presently recognized or
+relied upon.
 
-Evidence concerning a historical Acceptance must be distinguished according to the role that evidence played in the Acceptance.
+Evidence concerning a historical Acceptance must be distinguished according to
+the role that evidence played in the Acceptance.
 
-Corroborative evidence demonstrates that an Acceptance occurred or that its applicable substantive conditions were satisfied, but its existence is not itself necessarily a condition of the Acceptance's historical validity.
+Corroborative evidence demonstrates that an Acceptance occurred or that its
+applicable substantive conditions were satisfied, but its existence is not
+itself necessarily a condition of the Acceptance's historical validity.
 
 Therefore:
 
@@ -257,21 +311,30 @@ and:
 
 > **Corroborative Evidence ≠ Constitutive Evidence**
 
-Subsequent loss or absence of corroborative evidence does not by itself retroactively invalidate an Acceptance that was valid when performed.
+Subsequent loss or absence of corroborative evidence does not by itself
+retroactively invalidate an Acceptance that was valid when performed.
 
-However, preservation, memorialization, registration, publication, or another evidentiary or canonical effect may itself have been an applicable substantive condition of valid Acceptance.
+However, preservation, memorialization, registration, publication, or another
+evidentiary or canonical effect may itself have been an applicable substantive
+condition of valid Acceptance.
 
-Where such an effect was an applicable substantive condition, failure to satisfy that condition is a failure of the Acceptance itself rather than merely a later deficiency in the evidence available to demonstrate it.
+Where such an effect was an applicable substantive condition, failure to satisfy
+that condition is a failure of the Acceptance itself rather than merely a later
+deficiency in the evidence available to demonstrate it.
 
-Whether an evidentiary or canonical effect was constitutive of a particular historical Acceptance must be established from the conditions applicable to that Acceptance at the time it occurred.
+Whether an evidentiary or canonical effect was constitutive of a particular
+historical Acceptance must be established from the conditions applicable to that
+Acceptance at the time it occurred.
 
-A later specification does not make a newly prescribed evidentiary requirement historically applicable merely by formalizing it later.
+A later specification does not make a newly prescribed evidentiary requirement
+historically applicable merely by formalizing it later.
 
 Therefore:
 
 > **Later Formalization ≠ Historical Applicability**
 
-A claimed pre-specification Acceptance must have sufficient evidentiary support for its prior validity to be presently established and relied upon.
+A claimed pre-specification Acceptance must have sufficient evidentiary support
+for its prior validity to be presently established and relied upon.
 
 Therefore:
 
@@ -281,13 +344,17 @@ and:
 
 > **Absence of Prescribed Evidence Format ≠ Absence of Evidence Requirement**
 
-The exact evidence necessary to establish the validity of a particular historical Acceptance depends upon the substantive conditions whose satisfaction must be demonstrated and upon whether any evidentiary, memorializing, or canonical effect was itself constitutive of valid Acceptance.
+The exact evidence necessary to establish the validity of a particular
+historical Acceptance depends upon the substantive conditions whose satisfaction
+must be demonstrated and upon whether any evidentiary, memorializing, or
+canonical effect was itself constitutive of valid Acceptance.
 
 ---
 
 ## Authority Remains Independently Required
 
-This finding does not solve the authority bootstrap merely by solving the specification bootstrap.
+This finding does not solve the authority bootstrap merely by solving the
+specification bootstrap.
 
 A pre-specification Acceptance still requires legitimate applicable authority.
 
@@ -306,15 +373,18 @@ Acceptance Authority
         not required
 ```
 
-The source and legitimacy of the authority capable of performing the initial Canonical Discovery Acceptance are separate dependencies.
+The source and legitimacy of the authority capable of performing the initial
+Canonical Discovery Acceptance are separate dependencies.
 
 ---
 
 ## Epistemic Eligibility Remains Independently Required
 
-Likewise, absence of an Acceptance specification does not allow governance authority to substitute for epistemic validity.
+Likewise, absence of an Acceptance specification does not allow governance
+authority to substitute for epistemic validity.
 
-A constitutive or procedural authority cannot make an epistemically ineligible Discovery eligible merely by accepting it.
+A constitutive or procedural authority cannot make an epistemically ineligible
+Discovery eligible merely by accepting it.
 
 Therefore:
 
@@ -324,31 +394,41 @@ and:
 
 > **Pre-Specification Acceptance ≠ Epistemic Exemption**
 
-The epistemic and governance requirements remain distinct and must converge upon a valid Acceptance.
+The epistemic and governance requirements remain distinct and must converge upon
+a valid Acceptance.
 
 ---
 
 ## Self-Authorization Is Not Permitted
 
-An Acceptance specification cannot establish its own authority merely by declaring that the Acceptance through which its authoritative dependencies were established was valid.
+An Acceptance specification cannot establish its own authority merely by
+declaring that the Acceptance through which its authoritative dependencies were
+established was valid.
 
-Likewise, a Discovery cannot provide the authoritative standing necessary to validate the same Acceptance through which that standing is acquired.
+Likewise, a Discovery cannot provide the authoritative standing necessary to
+validate the same Acceptance through which that standing is acquired.
 
 Therefore:
 
 > **Bootstrap ≠ Self-Authorization**
 
-The validity of a pre-specification Acceptance must be demonstrable without depending upon the authoritative standing produced by that same Acceptance.
+The validity of a pre-specification Acceptance must be demonstrable without
+depending upon the authoritative standing produced by that same Acceptance.
 
 ---
 
 ## Consequence for the First Acceptance
 
-The first valid Canonical Discovery Acceptance does not require a previously authoritative Canonical Discovery Acceptance specification merely because later Acceptances will be governed by such a specification.
+The first valid Canonical Discovery Acceptance does not require a previously
+authoritative Canonical Discovery Acceptance specification merely because later
+Acceptances will be governed by such a specification.
 
-Instead, the first Acceptance must satisfy the independently applicable substantive conditions for valid Acceptance.
+Instead, the first Acceptance must satisfy the independently applicable
+substantive conditions for valid Acceptance.
 
-Once authoritative governance and specifications have been established, subsequent Acceptances may be required to comply with those additional procedural structures.
+Once authoritative governance and specifications have been established,
+subsequent Acceptances may be required to comply with those additional
+procedural structures.
 
 Thus:
 
@@ -368,7 +448,8 @@ Repeatable Governed Acceptances
 
 This sequence does not establish the authority source for the first Acceptance.
 
-It establishes only that the absence of the later specification does not itself make the first Acceptance impossible.
+It establishes only that the absence of the later specification does not itself
+make the first Acceptance impossible.
 
 ---
 
@@ -405,7 +486,8 @@ FD-0024 depends upon the distinctions established or investigated in:
 
 These dependencies identify the conceptual conditions involved in the finding.
 
-Because FD-0024 remains in Hold, this dependency statement does not itself assert that FD-0024 possesses authoritative dependency standing.
+Because FD-0024 remains in Hold, this dependency statement does not itself
+assert that FD-0024 possesses authoritative dependency standing.
 
 ---
 
@@ -413,23 +495,41 @@ Because FD-0024 remains in Hold, this dependency statement does not itself asser
 
 FD-0024 leaves unresolved:
 
-1. What independently legitimate authority may perform the first Canonical Discovery Acceptance?
-2. What constitutive authority source grounds that Procedural Authority?
-3. What evidence is sufficient to demonstrate the validity of a historical pre-specification Acceptance?
-4. How should a later authoritative Acceptance specification recognize a valid pre-specification Acceptance without creating retroactive authority?
-5. How should invalid historical Acceptance claims be treated after formal Acceptance governance exists?
+1.  What independently legitimate authority may perform the first Canonical
+    Discovery Acceptance?
+2.  What constitutive authority source grounds that Procedural Authority?
+3.  What evidence is sufficient to demonstrate the validity of a historical
+    pre-specification Acceptance?
+4.  How should a later authoritative Acceptance specification recognize a valid
+    pre-specification Acceptance without creating retroactive authority?
+5.  How should invalid historical Acceptance claims be treated after formal
+    Acceptance governance exists?
 
-These questions belong to subsequent Forge investigation and Stage operationalization.
+These questions belong to subsequent Forge investigation and Stage
+operationalization.
 
 ---
 
 ## Forge Finding
 
-> **The validity of Canonical Discovery Acceptance does not originate in the existence of the specification that describes it. A pre-specification Acceptance may therefore be valid if the substantive conditions necessary for valid Acceptance were independently satisfied at the time of the Acceptance.**
+> **The validity of Canonical Discovery Acceptance does not originate in the
+> existence of the specification that describes it. A pre-specification
+> Acceptance may therefore be valid if the substantive conditions necessary for
+> valid Acceptance were independently satisfied at the time of the Acceptance.**
 >
-> **Historical validity and present demonstrability of that validity are distinct. Subsequent loss or absence of corroborative evidence does not by itself retroactively invalidate an otherwise valid Acceptance. Where preservation, memorialization, registration, publication, or another evidentiary or canonical effect was itself an applicable substantive condition of valid Acceptance, however, failure of that condition is a failure of the Acceptance itself rather than merely a later evidentiary deficiency.**
+> **Historical validity and present demonstrability of that validity are
+> distinct. Subsequent loss or absence of corroborative evidence does not by
+> itself retroactively invalidate an otherwise valid Acceptance. Where
+> preservation, memorialization, registration, publication, or another
+> evidentiary or canonical effect was itself an applicable substantive condition
+> of valid Acceptance, however, failure of that condition is a failure of the
+> Acceptance itself rather than merely a later evidentiary deficiency.**
 >
-> **A later specification may recognize, formalize, operationalize, and make inspectable prior validity; it cannot create validity retroactively merely by declaring an earlier act compliant. Present recognition requires sufficient grounds to establish the claimed prior validity, but recognition does not create that prior validity.**
+> **A later specification may recognize, formalize, operationalize, and make
+> inspectable prior validity; it cannot create validity retroactively merely by
+> declaring an earlier act compliant. Present recognition requires sufficient
+> grounds to establish the claimed prior validity, but recognition does not
+> create that prior validity.**
 
 ### Invariants
 
@@ -461,27 +561,63 @@ Recognition ≠ Completion of an Incomplete Historical Acceptance
 
 ---
 
+## Status
+
+
+| Field | Value |
+|---|---|
+| Status | Accepted |
+| Version | 1.0.0 |
+
+
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
+
+---
+
 ## Version History
+
+### 1.0.0 — Accepted
+
+Accepted following final Anvil inspection and the authorized direct acceptance
+transition.
+
+### 0.1.2 — Hold
+
+Updated lifecycle state after surviving Forge review; prepared the exact
+artifact for final Anvil inspection.
 
 ### 0.1.1 — 2026-08-29
 
-- Reforged following Anvil inspection of the distinction between historical Acceptance validity and present demonstrability.
-- Distinguished historical validity from present demonstrability and present canonical recognition or reliance.
-- Distinguished corroborative evidence from evidentiary, memorializing, or canonical effects that may themselves be constitutive conditions of valid Acceptance.
-- Established that subsequent loss or absence of corroborative evidence does not by itself retroactively invalidate an otherwise valid Acceptance.
-- Established that failure to demonstrate historical validity does not itself demonstrate historical invalidity.
-- Established that later formalization does not by itself make a newly prescribed requirement historically applicable.
-- Established that recognition of prior validity cannot complete an historically incomplete Acceptance.
+- Reforged following Anvil inspection of the distinction between historical
+  Acceptance validity and present demonstrability.
+- Distinguished historical validity from present demonstrability and present
+  canonical recognition or reliance.
+- Distinguished corroborative evidence from evidentiary, memorializing, or
+  canonical effects that may themselves be constitutive conditions of valid
+  Acceptance.
+- Established that subsequent loss or absence of corroborative evidence does not
+  by itself retroactively invalidate an otherwise valid Acceptance.
+- Established that failure to demonstrate historical validity does not itself
+  demonstrate historical invalidity.
+- Established that later formalization does not by itself make a newly
+  prescribed requirement historically applicable.
+- Established that recognition of prior validity cannot complete an historically
+  incomplete Acceptance.
 - Preserved the prohibition against retroactive authorization.
 - Status remains Hold pending renewed Anvil inspection.
 
 ### 0.1.0 — 2026-08-29
 
 - Initial memorialization.
-- Separated pre-specification Acceptance validity from the distinct question of constitutive authority for initial Canonical Discovery Acceptance.
-- Established that Acceptance validity does not originate in the existence of the Acceptance specification.
-- Established that later codification cannot retroactively authorize an invalid earlier Acceptance.
-- Preserved independent authority, epistemic eligibility, evidence, and anti-self-authorization requirements.
+- Separated pre-specification Acceptance validity from the distinct question of
+  constitutive authority for initial Canonical Discovery Acceptance.
+- Established that Acceptance validity does not originate in the existence of
+  the Acceptance specification.
+- Established that later codification cannot retroactively authorize an invalid
+  earlier Acceptance.
+- Preserved independent authority, epistemic eligibility, evidence, and
+  anti-self-authorization requirements.
 - Status set to Hold pending Anvil inspection.
 
 ---

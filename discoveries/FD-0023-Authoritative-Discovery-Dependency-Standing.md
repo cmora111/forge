@@ -1,7 +1,7 @@
 # FD-0023 — Authoritative Discovery Dependency Standing
 
-**Status:** Hold
-**Version:** 0.1.0
+**Status:** Accepted
+**Version:** 1.0.0
 
 ---
 
@@ -459,23 +459,29 @@ that their resolution is required.
 
 # Status
 
+
 | Field | Value |
 |---|---|
-| Status | Hold |
-| Version | 0.1.0 |
+| Status | Accepted |
+| Version | 1.0.0 |
 
-This Discovery memorializes the finding that valid Canonical Discovery
-Acceptance establishes the canonical standing required for a Discovery finding
-to serve as an authoritative dependency in Stage engineering, while preserving
-the distinction between authoritative reliance, epistemic eligibility, and
-investigative use.
 
-It remains subject to governed Canonical Discovery Acceptance and does not
-acquire authoritative dependency standing merely by this memorialization.
+The finding is Accepted following final Anvil inspection and the authorized
+direct acceptance transition.
 
 ---
 
 # Version History
+
+## 1.0.0 — Accepted
+
+Accepted following final Anvil inspection and the authorized direct acceptance
+transition.
+
+## 0.1.1 — Hold
+
+Updated lifecycle state after surviving Forge review; prepared the exact
+artifact for final Anvil inspection.
 
 ## 0.1.0 — Hold
 

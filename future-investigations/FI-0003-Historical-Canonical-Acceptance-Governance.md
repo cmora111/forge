@@ -1,7 +1,13 @@
 # FI-0003 — Historical Canonical Acceptance Governance
 
-**Status:** Deferred  
-**Origin:** FD-0024 — Pre-Specification Canonical Acceptance Validity  
+**Status:** Hold
+**Version:** 0.2.1
+
+---
+# Origin
+
+**FD-0024** — Pre-Specification Canonical Acceptance Validity
+
 **Deferred:** 2026-08-30
 
 ---
@@ -47,6 +53,30 @@ retrospective-recognition procedure.
 
 This investigation is preserved for future work and is not presently blocking
 the engineering work that exposed it.
+
+---
+
+## Re-entry
+
+This investigation was reopened on 2026-09-12 because its declared re-entry
+condition was satisfied.
+
+A present Forge–Stage engineering operation requires reliance upon existing
+canonical governance in order to determine the procedural authority applicable
+to approval of the Data Licensing and Provenance Specification.
+
+The investigation therefore requires examination of the historical canonical
+Acceptance acts upon which that governance depends. The approval history of
+KNOWLEDGE-LIFECYCLE.md is preserved as a comparative historical witness and
+does not, by its inclusion here, establish that Specification approval and
+Canonical Discovery Acceptance possess identical governance requirements.
+
+The existence of those historical status records does not itself establish
+their historical validity.
+
+Re-entry therefore establishes only that the deferred investigation has become
+necessary. It does not establish the validity, authority, or canonical standing
+of any historical act under examination.
 
 ---
 
@@ -208,9 +238,54 @@ Therefore:
 
 ---
 
-## Unresolved Questions
+## Evidence Under Investigation
 
-This Future Investigation preserves the following unresolved questions:
+The present investigation begins with two concrete historical witnesses.
+
+### FD-0007
+
+Repository history preserves FD-0007 as a Discovery for which a transition
+from Draft to Accepted is observable.
+
+This evidence may establish that a canonical status transition was recorded.
+It does not, by itself, establish the Procedural Authority under which that
+transition was performed.
+
+### KNOWLEDGE-LIFECYCLE.md
+
+Repository history preserves a transition of KNOWLEDGE-LIFECYCLE.md from Draft
+version 0.9.0 to Approved version 1.0.0 following Forge and Anvil review.
+
+This evidence may establish that an approval act was recorded. It does not, by
+itself, establish the Procedural Authority under which that act was performed.
+
+### Repository Provenance
+
+The preserved repository history identifies Carlos Mora as the actor performing
+the examined canonical repository acts.
+
+Authorship, commit identity, repository ownership, or technical ability to
+perform a repository operation SHALL NOT, without an independently established
+governing relationship, be treated as sufficient evidence of Procedural
+Authority.
+
+The investigation must therefore determine what authority relationship, if any,
+was applicable to those acts when they occurred and what surviving evidence
+establishes that relationship.
+
+---
+
+## Active Investigation
+
+The re-entered investigation asks:
+
+> What surviving historical evidence establishes the authority relationship
+> under which the canonical acceptance of FD-0007 was performed, and is that
+> evidence sufficient for present governance to recognize that Acceptance as
+> historically valid?
+
+Resolution of that question requires examination of the following preserved
+questions:
 
 1. What evidence is sufficient to demonstrate that a claimed historical
    pre-specification Canonical Discovery Acceptance was valid?
@@ -254,6 +329,22 @@ investigation.
 
 ---
 
+### Re-entry Determination
+
+**Re-entered:** 2026-09-12
+
+The re-entry condition is satisfied.
+
+The present approval investigation concerning the Data Licensing and
+Provenance Specification requires reliance upon existing canonical governance
+whose standing depends upon historical Canonical Discovery Acceptance. The
+approval history of KNOWLEDGE-LIFECYCLE.md is retained as a comparative
+historical witness.
+
+FI-0003 is therefore reopened for active Forge investigation.
+
+---
+
 ## Related Artifacts
 
 - FD-0024 — Pre-Specification Canonical Acceptance Validity
@@ -266,13 +357,35 @@ investigation.
 
 ---
 
-## Version History
+# Status
 
-### 0.1.0 — 2026-08-30
 
-Initial preservation of the deferred investigation concerning evidence,
-evaluation, recognition, and disposition of historical pre-specification
-Canonical Discovery Acceptance claims.
+| Field | Value |
+|---|---|
+| Status | Hold |
+| Version | 0.2.1 |
+
+
+
+---
+
+# Version History
+
+
+| Version | Status | Description |
+|---|---|---|
+| 0.1.0 | Hold | 2026-08-30 - Initial preservation of the deferred |
+| | | investigation concerning evidence, evaluation, recognition, and |
+| | | disposition of historical pre-specification Canonical Discovery |
+| | | Acceptance claims. |
+| 0.2.0 | Hold | Brought up to date with the current standard document |
+| | | structure. |
+| 0.2.1 | Hold | 2026-09-12 - Reopened after satisfaction of the declared |
+| | | re-entry condition. Recorded the present governance dependency, |
+| | | initial historical witnesses, repository provenance evidence, |
+| | | active investigation question, and re-entry determination. |
+
+
 
 ---
 

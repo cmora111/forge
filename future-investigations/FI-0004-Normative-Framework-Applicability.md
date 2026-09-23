@@ -1,7 +1,14 @@
 # FI-0004 — Normative Framework Applicability
 
-**Status:** Deferred  
-**Origin:** FD-0025 — Constitutive Authority for Initial Canonical Discovery Acceptance  
+**Status:** Hold
+**Version:** 0.2.0
+
+---
+
+# Origin
+
+**FD-0025** — Constitutive Authority for Initial Canonical Discovery Acceptance
+
 **Deferred:** 2026-08-30
 
 ---
@@ -48,6 +55,46 @@ conclusions to Accepted Forge Discovery findings.
 
 ---
 
+## Re-entry
+
+This investigation was reopened on 2026-09-13 because its declared re-entry
+condition was satisfied.
+
+FI-0003 — Historical Canonical Acceptance Governance requires determination of
+whether the historically established authority relationship supporting
+Canonical Method Stewardship remains presently applicable for retrospective
+recognition of FD-0007.
+
+That operation requires resolution of continuing normative-framework
+applicability and the continuing grounding relationship upon which claimed
+present governance standing depends.
+
+Re-entry establishes only that the deferred investigation has become materially
+necessary.
+
+It does not establish present framework applicability, continuing grounding,
+present Procedural Authority, or the validity of retrospective recognition.
+
+Consistent with the preserved re-entry condition, the resumed investigation is
+limited to the dependency presently blocking FI-0003.
+
+The presently activated preserved questions are therefore:
+
+5. What evidence is sufficient to demonstrate the grounding relationship
+   supporting framework applicability?
+
+6. How should changes to a grounding relationship affect present framework
+   applicability or scope?
+
+7. When does a changed circumstance become material enough to require
+   reevaluation of framework applicability?
+
+The remaining unresolved questions remain preserved unless subsequent
+dependency tracing demonstrates that their resolution has become materially
+necessary.
+
+---
+
 ## Preserved Investigative Work
 
 The following material records the state reached by the Forge investigation
@@ -69,7 +116,9 @@ bases for normative-framework applicability.
 A declaration that a framework governs a domain does not establish that the
 framework actually applies to that domain.
 
-    Framework Declaration ≠ Framework Applicability
+```
+Framework Declaration ≠ Framework Applicability
+```
 
 ---
 
@@ -78,7 +127,9 @@ framework actually applies to that domain.
 A framework cannot establish its own applicability merely by containing a rule
 stating that it applies.
 
-    Framework Self-Assertion ≠ Framework Applicability
+```
+Framework Self-Assertion ≠ Framework Applicability
+```
 
 Otherwise the applicability question becomes circular.
 
@@ -89,7 +140,9 @@ Otherwise the applicability question becomes circular.
 Creation of a domain does not independently grant unrestricted authority to
 select any normative framework for that domain.
 
-    Domain Creation ≠ Unrestricted Framework-Selection Authority
+```
+Domain Creation ≠ Unrestricted Framework-Selection Authority
+```
 
 Creation may provide evidence relevant to the relationship between an actor and
 a domain without itself establishing the complete legitimacy or scope of
@@ -102,7 +155,9 @@ constitutive standing.
 Repeated or longstanding use of a framework does not independently establish
 its applicability.
 
-    Historical Use ≠ Framework Applicability
+```
+Historical Use ≠ Framework Applicability
+```
 
 Historical use may nevertheless provide evidence concerning an established
 governance relationship.
@@ -114,7 +169,9 @@ governance relationship.
 The physical or logical location of an artifact does not determine which
 normative framework governs it.
 
-    Repository Membership ≠ Normative Framework Applicability
+```
+Repository Membership ≠ Normative Framework Applicability
+```
 
 The governed domain must be identified independently of storage location.
 
@@ -129,7 +186,9 @@ It does not establish unlimited authority over third parties, independent
 domains, or matters outside the scope supported by the constitutive
 relationship.
 
-    Voluntary Agreement ≠ Unlimited Framework Applicability
+```
+Voluntary Agreement ≠ Unlimited Framework Applicability
+```
 
 ---
 
@@ -140,11 +199,15 @@ the scope of that participation.
 
 It does not establish unlimited submission to governance.
 
-    Participation ≠ Unlimited Submission to Governance
+```
+Participation ≠ Unlimited Submission to Governance
+```
 
 and:
 
-    Method Use ≠ Governance Participation
+```
+Method Use ≠ Governance Participation
+```
 
 ---
 
@@ -154,7 +217,9 @@ The mere existence of a relationship to a domain does not establish that the
 relationship is normatively sufficient to constitute governance over every
 aspect of that domain.
 
-    Relationship Existence ≠ Normative Sufficiency
+```
+Relationship Existence ≠ Normative Sufficiency
+```
 
 Creation, authorship, ownership, technical control, participation, or voluntary
 agreement may provide evidence relevant to grounding without independently
@@ -169,11 +234,15 @@ normative framework and its grounding relationship.
 
 If:
 
-    Grounding is sufficient because Framework F says it is
+```
+Grounding is sufficient because Framework F says it is
+```
 
 while:
 
-    Framework F applies because that grounding is sufficient
+```
+Framework F applies because that grounding is sufficient
+```
 
 then framework applicability and grounding depend upon each other without an
 independent basis.
@@ -186,8 +255,10 @@ applicability from another framework of the same kind produces a regress.
 
 Therefore, the investigation preserved the distinction:
 
-    Framework Applicability Does Not Necessarily Require
-    Authorization by Another Framework of the Same Kind
+```
+Framework Applicability Does Not Necessarily Require
+Authorization by Another Framework of the Same Kind
+```
 
 A possible stopping point was identified in the constitutive relationship
 between the actor or actors and the bounded domain being governed, subject to
@@ -206,19 +277,21 @@ constitutive act.
 
 The resulting structural model was:
 
-    Broader Applicable
-    Normative Constraints
-             │
-             ▼
-    Constitutive Relationship
-    Actors ↔ Governed Domain
-             │
-             ▼
-    Internal Normative
-    Framework
-             │
-             ▼
-    Internal Governance
+```
+Broader Applicable
+Normative Constraints
+         │
+         ▼
+Constitutive Relationship
+Actors ↔ Governed Domain
+         │
+         ▼
+Internal Normative
+Framework
+         │
+         ▼
+Internal Governance
+```
 
 An internal governance framework cannot obtain unlimited authority merely by
 agreement among its participants where broader applicable constraints already
@@ -229,13 +302,17 @@ voluntary constitution impossible.
 
 The investigation therefore preserved:
 
-    Absence of Superior Internal Governance
-    ≠ Absence of Normative Constraint
+```
+Absence of Superior Internal Governance
+≠ Absence of Normative Constraint
+```
 
 and:
 
-    Absence of Superior Internal Governance
-    ≠ Impossibility of Voluntary Constitution
+```
+Absence of Superior Internal Governance
+≠ Impossibility of Voluntary Constitution
+```
 
 ---
 
@@ -249,30 +326,40 @@ where that actor possesses a sufficient grounding relationship to the domain.
 
 Therefore:
 
-    Plurality of Actors ≠ Necessary Condition of Constitution
+```
+Plurality of Actors ≠ Necessary Condition of Constitution
+```
 
 This does not establish unlimited authority merely because the actor is
 governing a domain with which that actor has a relationship.
 
 In particular:
 
-    Self-Governance ≠ Truth-Making Authority
+```
+Self-Governance ≠ Truth-Making Authority
+```
 
 and:
 
-    Creation ≠ Unlimited Constitutive Standing
+```
+Creation ≠ Unlimited Constitutive Standing
+```
 
 The scope of constituted governance cannot exceed the scope supported by the
 grounding relationship.
 
 Therefore:
 
-    Constituted Scope ≤ Grounded Scope
+```
+Constituted Scope ≤ Grounded Scope
+```
 
 Constitution by participating actors also does not establish governance
 authority over independent nonparticipants.
 
-    Constitution by Participants ≠ Authority Over Nonparticipants
+```
+Constitution by Participants ≠ Authority Over Nonparticipants
+```
 
 ---
 
@@ -286,16 +373,22 @@ methodological lineage without preserving governance jurisdiction.
 
 Therefore:
 
-    Methodological Lineage ≠ Governance Jurisdiction
+```
+Methodological Lineage ≠ Governance Jurisdiction
+```
 
 and:
 
-    Method Use ≠ Governance Participation
+```
+Method Use ≠ Governance Participation
+```
 
 Similarly, later expansion of a Method does not automatically expand the scope
 of the constitutive relationship that originally grounded its governance.
 
-    Original Domain Scope ≠ Automatically Present Domain Scope
+```
+Original Domain Scope ≠ Automatically Present Domain Scope
+```
 
 ---
 
@@ -308,11 +401,15 @@ It did not.
 
 Therefore:
 
-    Prior Framework Applicability ≠ Perpetual Framework Applicability
+```
+Prior Framework Applicability ≠ Perpetual Framework Applicability
+```
 
 and:
 
-    Prior Grounding ≠ Permanent Grounding
+```
+Prior Grounding ≠ Permanent Grounding
+```
 
 A material change to the grounding relationship may require reevaluation of
 present framework applicability or scope.
@@ -322,21 +419,29 @@ applicability.
 
 Therefore:
 
-    Changed Circumstances ≠ Automatic Loss of Framework Applicability
+```
+Changed Circumstances ≠ Automatic Loss of Framework Applicability
+```
 
 Historical possession of constitutive or delegated authority does not establish
 present possession of that authority.
 
-    Historical Constitutive Standing ≠ Present Constitutive Standing
+```
+Historical Constitutive Standing ≠ Present Constitutive Standing
+```
 
 and:
 
-    Historical Possession of Authority ≠ Present Possession of Authority
+```
+Historical Possession of Authority ≠ Present Possession of Authority
+```
 
 Present framework scope likewise cannot be established solely from historical
 scope.
 
-    Present Framework Scope Cannot Be Established Solely by Historical Scope
+```
+Present Framework Scope Cannot Be Established Solely by Historical Scope
+```
 
 ---
 
@@ -347,19 +452,25 @@ framework applicability that legitimately existed previously.
 
 Therefore:
 
-    Loss of Present Applicability
-    ≠ Retroactive Loss of Historical Applicability
+```
+Loss of Present Applicability
+≠ Retroactive Loss of Historical Applicability
+```
 
 Conversely, restoration or establishment of present applicability does not
 establish that the framework continuously applied throughout an earlier period.
 
-    Present Applicability
-    ≠ Retroactive Continuous Applicability
+```
+Present Applicability
+≠ Retroactive Continuous Applicability
+```
 
 Continuing applicability also need not be continually recreated in the absence
 of a material change requiring reevaluation.
 
-    Continuing Validity ≠ Continuous Re-establishment
+```
+Continuing Validity ≠ Continuous Re-establishment
+```
 
 ---
 
@@ -400,23 +511,25 @@ Accepted Forge Discovery finding.
 
 The investigation reached the following working model:
 
-    Broader Applicable Constraints
-                │
-                ▼
-    Grounded Constitutive Relationship
-                │
-                ▼
-    Applicable Internal Normative Framework
-                │
-                ▼
-         Bounded Governance
-                │
-                │
-        circumstances change
-                │
-                ▼
-    Does the grounding still support
-    the claimed standing and scope?
+```
+Broader Applicable Constraints
+            │
+            ▼
+Grounded Constitutive Relationship
+            │
+            ▼
+Applicable Internal Normative Framework
+            │
+            ▼
+     Bounded Governance
+            │
+            │
+    circumstances change
+            │
+            ▼
+Does the grounding still support
+the claimed standing and scope?
+```
 
 This model is preserved to prevent future investigation from unnecessarily
 reconstructing the same reasoning.
@@ -446,15 +559,17 @@ A candidate distinction developed during the investigation was:
 
 The associated candidate distinctions were:
 
-    Repository ≠ Canonical Discovery Governance Domain
+```
+Repository ≠ Canonical Discovery Governance Domain
 
-    Investigation ≠ Canonical Discovery Governance Domain
+Investigation ≠ Canonical Discovery Governance Domain
 
-    Governed Discovery ≠ Accepted Discovery
+Governed Discovery ≠ Accepted Discovery
 
-    Canonical Governance Authority ≠ Epistemic Authority
+Canonical Governance Authority ≠ Epistemic Authority
 
-    Membership in Governance Domain ≠ Possession of Accepted Standing
+Membership in Governance Domain ≠ Possession of Accepted Standing
+```
 
 The exact definition and standing of the Canonical Discovery Governance Domain
 were not established by a separate Discovery before this investigation was
@@ -470,55 +585,57 @@ authoritative definition.
 The following compact distinctions summarize the principal results preserved
 from the investigation:
 
-    Framework Declaration ≠ Framework Applicability
+```
+Framework Declaration ≠ Framework Applicability
 
-    Framework Self-Assertion ≠ Framework Applicability
+Framework Self-Assertion ≠ Framework Applicability
 
-    Domain Creation ≠ Unrestricted Framework-Selection Authority
+Domain Creation ≠ Unrestricted Framework-Selection Authority
 
-    Historical Use ≠ Framework Applicability
+Historical Use ≠ Framework Applicability
 
-    Repository Membership ≠ Normative Framework Applicability
+Repository Membership ≠ Normative Framework Applicability
 
-    Voluntary Agreement ≠ Unlimited Framework Applicability
+Voluntary Agreement ≠ Unlimited Framework Applicability
 
-    Participation ≠ Unlimited Submission to Governance
+Participation ≠ Unlimited Submission to Governance
 
-    Relationship Existence ≠ Normative Sufficiency
+Relationship Existence ≠ Normative Sufficiency
 
-    Plurality of Actors ≠ Necessary Condition of Constitution
+Plurality of Actors ≠ Necessary Condition of Constitution
 
-    Creation ≠ Unlimited Constitutive Standing
+Creation ≠ Unlimited Constitutive Standing
 
-    Self-Governance ≠ Truth-Making Authority
+Self-Governance ≠ Truth-Making Authority
 
-    Constituted Scope ≤ Grounded Scope
+Constituted Scope ≤ Grounded Scope
 
-    Constitution by Participants ≠ Authority Over Nonparticipants
+Constitution by Participants ≠ Authority Over Nonparticipants
 
-    Method Use ≠ Governance Participation
+Method Use ≠ Governance Participation
 
-    Methodological Lineage ≠ Governance Jurisdiction
+Methodological Lineage ≠ Governance Jurisdiction
 
-    Original Domain Scope ≠ Automatically Present Domain Scope
+Original Domain Scope ≠ Automatically Present Domain Scope
 
-    Prior Framework Applicability ≠ Perpetual Framework Applicability
+Prior Framework Applicability ≠ Perpetual Framework Applicability
 
-    Prior Grounding ≠ Permanent Grounding
+Prior Grounding ≠ Permanent Grounding
 
-    Changed Circumstances ≠ Automatic Loss of Framework Applicability
+Changed Circumstances ≠ Automatic Loss of Framework Applicability
 
-    Historical Constitutive Standing ≠ Present Constitutive Standing
+Historical Constitutive Standing ≠ Present Constitutive Standing
 
-    Historical Possession of Authority ≠ Present Possession of Authority
+Historical Possession of Authority ≠ Present Possession of Authority
 
-    Present Framework Scope Cannot Be Established Solely by Historical Scope
+Present Framework Scope Cannot Be Established Solely by Historical Scope
 
-    Loss of Present Applicability ≠ Retroactive Loss of Historical Applicability
+Loss of Present Applicability ≠ Retroactive Loss of Historical Applicability
 
-    Present Applicability ≠ Retroactive Continuous Applicability
+Present Applicability ≠ Retroactive Continuous Applicability
 
-    Continuing Validity ≠ Continuous Re-establishment
+Continuing Validity ≠ Continuous Re-establishment
+```
 
 ---
 
@@ -575,26 +692,60 @@ blocking the engineering operation that caused re-entry.
 
 ---
 
-## Related Artifacts
+### Re-entry Determination
 
-- FD-0025 — Constitutive Authority for Initial Canonical Discovery Acceptance
-- FD-0021 — Constitutive Authority Standing
-- FD-0020 — Procedural Authority Legitimacy
-- FD-0024 — Pre-Specification Canonical Acceptance Validity
+**Re-entered:** 2026-09-13
+
+The re-entry condition is satisfied.
+
+FI-0003 requires present determination of the normative-framework applicability
+and grounding relationship necessary to evaluate whether historically
+established Canonical Method Stewardship remains presently applicable for
+retrospective recognition of FD-0007.
+
+FI-0004 is therefore reopened for active Forge investigation, limited to the
+dependency demonstrated to be blocking FI-0003.
 
 ---
 
-## Version History
+## Depends On
 
-### 0.1.0 — 2026-08-30
+* FD-0025 — Constitutive Authority for Initial Canonical Discovery Acceptance
+* FD-0021 — Constitutive Authority Standing
 
-Initial preservation of the deferred normative-framework applicability
-investigation.
+---
 
-Preserved the investigation's candidate findings, distinctions, invariants,
-structural model, temporal analysis, Canonical Discovery Governance Domain
-candidate, unresolved questions, and re-entry condition without conferring
-Discovery or Accepted standing upon that material.
+# Status
+
+
+| Field | Value |
+|---|---|
+| Status | Hold |
+| Version | 0.2.0 |
+
+
+
+---
+
+# Version History
+
+
+| Version | Status | Description |
+|---|---|---|
+| 0.1.0 | Hold | 2026-08-30 - Initial preservation of the deferred |
+| | | normative-framework applicability investigation. Preserved the |
+| | | candidate findings, distinctions, invariants, structural model, |
+| | | temporal analysis, Canonical Discovery Governance Domain |
+| | | candidate, unresolved questions, and re-entry condition without |
+| | | conferring Discovery or Accepted standing upon that material. |
+| 0.2.0 | Hold | 2026-09-13 - Brought up to date with the current standard |
+| | | document structure and reopened after satisfaction of the declared |
+| | | re-entry condition. Recorded the FI-0003 trigger, bounded the |
+| | | resumed investigation to preserved Questions 5-7, added the |
+| | | re-entry determination, and preserved prior investigative work |
+| | | without promoting any candidate conclusion to Accepted standing. |
+
+
 
 ---
 
